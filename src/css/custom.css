@@ -1,0 +1,20 @@
+:root {
+  --ifm-color-primary: #176b68;
+  --ifm-color-primary-dark: #155f5d;
+  --ifm-color-primary-darker: #145a58;
+  --ifm-color-primary-darkest: #104a48;
+  --ifm-color-primary-light: #197774;
+  --ifm-color-primary-lighter: #1a7c79;
+  --ifm-color-primary-lightest: #1e8c88;
+  --ifm-code-font-size: 95%;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #55c7c1;
+  --ifm-background-color: #0c1117;
+}
+
+.navbar__title {
+  font-weight: 700;
+  letter-spacing: -.02em;
+}
