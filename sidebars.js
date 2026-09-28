@@ -5,7 +5,14 @@ const sidebars = {
     {
       type: 'category',
       label: 'Cybersecurity',
-      items: ['cybersecurity/index'],
+      items: [
+        'cybersecurity/index',
+        {
+          type: 'category',
+          label: 'Network Security',
+          items: ['cybersecurity/network-security/fortigate-ssl-vpn-no-more-addresses'],
+        },
+      ],
     },
     {
       type: 'category',
