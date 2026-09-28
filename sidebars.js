@@ -13,6 +13,7 @@ const sidebars = {
           items: [
             'cybersecurity/network-security/fortigate-ssl-vpn-no-more-addresses',
             'cybersecurity/network-security/forticlient-ssl-vpn-stuck-98',
+            'cybersecurity/network-security/fortiap-offline-troubleshooting',
           ],
         },
       ],
