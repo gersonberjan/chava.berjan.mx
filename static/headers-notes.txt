@@ -1,0 +1,1 @@
+GitHub Pages controls the hosting layer. Review CSP and other security-header options if the hosting platform changes or a proxy/CDN is introduced.

@@ -1,0 +1,5 @@
+{
+  "label": "Endpoint Security",
+  "position": 3,
+  "link": {"type": "doc", "id": "cybersecurity/endpoint/index"}
+}
