@@ -1,0 +1,11 @@
+operacion:
+  label: Operación
+  description: Experiencia y aprendizaje desde la operación.
+
+cybersecurity:
+  label: Cybersecurity
+  description: Seguridad, controles, detección y respuesta.
+
+ai:
+  label: AI
+  description: Inteligencia artificial, LLM y seguridad.
