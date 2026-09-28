@@ -1,0 +1,6 @@
+/* TEAM */
+Author: Salvador “Chava” Berjan
+Site: chava.berjan.mx
+
+/* SITE */
+Topics: Cybersecurity, Infrastructure, Automation, Artificial Intelligence
