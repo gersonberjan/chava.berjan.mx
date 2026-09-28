@@ -1,0 +1,1 @@
+# A public security contact will be added before accepting vulnerability reports.
