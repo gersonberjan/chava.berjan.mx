@@ -1,9 +1,13 @@
 import React, {useEffect, useRef} from 'react';
 import BlogPostItemContent from '@theme-original/BlogPostItem/Content';
 import {useBlogPost} from '@docusaurus/plugin-content-blog/client';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import {useColorMode} from '@docusaurus/theme-common';
 
 function GiscusComments() {
   const containerRef = useRef(null);
+  const {colorMode} = useColorMode();
+  const {siteConfig} = useDocusaurusContext();
 
   useEffect(() => {
     const container = containerRef.current;
@@ -22,7 +26,7 @@ function GiscusComments() {
     script.setAttribute('data-reactions-enabled', '1');
     script.setAttribute('data-emit-metadata', '0');
     script.setAttribute('data-input-position', 'bottom');
-    script.setAttribute('data-theme', 'preferred_color_scheme');
+    script.setAttribute('data-theme', colorMode === 'dark' ? 'dark' : 'light');
     script.setAttribute('data-lang', 'es');
     script.setAttribute('data-loading', 'lazy');
 
@@ -32,6 +36,22 @@ function GiscusComments() {
       container.replaceChildren();
     };
   }, []);
+
+  useEffect(() => {
+    const iframe = document.querySelector('iframe.giscus-frame');
+    if (!iframe?.contentWindow) return;
+
+    iframe.contentWindow.postMessage(
+      {
+        giscus: {
+          setConfig: {
+            theme: colorMode === 'dark' ? 'dark' : 'light',
+          },
+        },
+      },
+      'https://giscus.app',
+    );
+  }, [colorMode, siteConfig]);
 
   return <div ref={containerRef} className="giscus-wrapper" />;
 }
