@@ -1,13 +1,12 @@
 import React, {useEffect, useRef} from 'react';
 import BlogPostItemContent from '@theme-original/BlogPostItem/Content';
 import {useBlogPost} from '@docusaurus/plugin-content-blog/client';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import {useColorMode} from '@docusaurus/theme-common';
 
 function GiscusComments() {
   const containerRef = useRef(null);
+  const iframeRef = useRef(null);
   const {colorMode} = useColorMode();
-  const {siteConfig} = useDocusaurusContext();
 
   useEffect(() => {
     const container = containerRef.current;
@@ -30,28 +29,39 @@ function GiscusComments() {
     script.setAttribute('data-lang', 'es');
     script.setAttribute('data-loading', 'lazy');
 
+    const observer = new MutationObserver(() => {
+      const iframe = container.querySelector('iframe.giscus-frame');
+      if (iframe) {
+        iframeRef.current = iframe;
+        observer.disconnect();
+      }
+    });
+
+    observer.observe(container, {childList: true, subtree: true});
     container.appendChild(script);
 
     return () => {
+      observer.disconnect();
+      iframeRef.current = null;
       container.replaceChildren();
     };
   }, []);
 
   useEffect(() => {
-    const iframe = document.querySelector('iframe.giscus-frame');
+    const theme = colorMode === 'dark' ? 'dark' : 'light';
+    const iframe = iframeRef.current ?? containerRef.current?.querySelector('iframe.giscus-frame');
     if (!iframe?.contentWindow) return;
 
+    iframeRef.current = iframe;
     iframe.contentWindow.postMessage(
       {
         giscus: {
-          setConfig: {
-            theme: colorMode === 'dark' ? 'dark' : 'light',
-          },
+          setConfig: {theme},
         },
       },
       'https://giscus.app',
     );
-  }, [colorMode, siteConfig]);
+  }, [colorMode]);
 
   return <div ref={containerRef} className="giscus-wrapper" />;
 }
