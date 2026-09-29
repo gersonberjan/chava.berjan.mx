@@ -40,6 +40,7 @@ const config = {
       items: [
         {to: '/knowledge/intro', label: 'Knowledge', position: 'left'},
         {to: '/articles', label: 'Articles', position: 'left'},
+        {to: '/archive', label: 'Archive', position: 'left'},
         {to: '/projects', label: 'Projects', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
         {href: 'https://github.com/gersonberjan', label: 'GitHub', position: 'right'},
