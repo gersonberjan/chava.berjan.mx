@@ -5,15 +5,14 @@ import styles from './index.module.css';
 
 export default function Home() {
   return (
-    <Layout title="Salvador Chava Berjan" description="Cybersecurity, infrastructure, automation and AI knowledge base">
+    <Layout title="Chava Berjan" description="Cybersecurity, infrastructure, automation and AI knowledge hub">
       <main>
         <section className={styles.hero}>
           <div className="container">
-            <p className={styles.eyebrow}>SALVADOR “CHAVA” BERJAN</p>
-            <h1>Seguridad desde la operación.</h1>
-            <p className={styles.subtitle}>Cybersecurity · Infrastructure · Automation · AI</p>
+            <p className={styles.eyebrow}>CHAVA BERJAN</p>
+            <h1>Cybersecurity · Infrastructure · Automation · AI</h1>
             <p className={styles.description}>
-              Conocimiento, documentación y experiencias construidas desde la operación de tecnología y ciberseguridad.
+              Experiencias, conocimiento y proyectos sobre tecnología.
             </p>
             <div className={styles.actions}>
               <Link className="button button--primary button--lg" to="/knowledge/intro">Explorar Knowledge Base</Link>
