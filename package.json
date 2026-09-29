@@ -25,6 +25,7 @@
     "node": ">=20.0"
   },
   "overrides": {
-    "webpack": "5.101.3"
+    "webpack": "5.101.3",
+    "memfs": "4.79.0"
   }
 }
