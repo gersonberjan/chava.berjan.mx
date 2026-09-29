@@ -48,7 +48,7 @@ const config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Salvador “Chava” Berjan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Chava Berjan.`,
     },
     prism: {
       additionalLanguages: ['powershell', 'bash', 'python'],
