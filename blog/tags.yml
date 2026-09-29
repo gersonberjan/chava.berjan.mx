@@ -17,3 +17,7 @@ cloud:
 infraestructura:
   label: Infraestructura
   description: Infraestructura, arquitectura y operación tecnológica.
+
+devops:
+  label: DevOps
+  description: Cultura, colaboración, automatización y entrega de tecnología.
