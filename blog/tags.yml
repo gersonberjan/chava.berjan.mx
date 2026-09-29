@@ -9,3 +9,11 @@ cybersecurity:
 ai:
   label: AI
   description: Inteligencia artificial, LLM y seguridad.
+
+cloud:
+  label: Cloud
+  description: Arquitectura, servicios y operación en la nube.
+
+infraestructura:
+  label: Infraestructura
+  description: Infraestructura, arquitectura y operación tecnológica.
