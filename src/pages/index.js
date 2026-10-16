@@ -3,31 +3,42 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
 
+const posts = [
+  {title: 'DevOps es una cultura, no un equipo', url: '/articles/devops-es-una-cultura-no-un-equipo', description: 'Una experiencia sobre agilidad, automatización y colaboración entre Desarrollo, Operaciones y Seguridad.'},
+  {title: 'La nube, casi diez años después', url: '/articles/la-nube-casi-diez-anos-despues', description: 'Una reflexión sobre la nube, la operación digital y las decisiones tecnológicas.'},
+];
+
 export default function Home() {
   return (
-    <Layout title="Chava Berjan" description="Cybersecurity, infrastructure, automation and AI knowledge hub">
+    <Layout title="Inicio" description="Experiencias, conocimiento y reflexiones sobre tecnología y operación.">
       <main>
         <section className={styles.hero}>
           <div className="container">
             <p className={styles.eyebrow}>CHAVA BERJAN</p>
-            <h1>Cybersecurity · Infrastructure · Automation · AI</h1>
-            <p className={styles.description}>
-              Experiencias, conocimiento y proyectos sobre tecnología.
-            </p>
-            <div className={styles.actions}>
-              <Link className="button button--primary button--lg" to="/knowledge/intro">Explorar Knowledge Base</Link>
-              <Link className="button button--secondary button--lg" to="/articles">Leer artículos</Link>
+            <h1>Entender la tecnología desde la experiencia.</h1>
+            <p className={styles.description}>Experiencias, conocimiento y reflexiones sobre tecnología, operación y la forma en que trabajamos.</p>
+            <Link className="button button--primary" to="/articles">Leer publicaciones</Link>
+          </div>
+        </section>
+        <section className={styles.posts}>
+          <div className="container">
+            <div className={styles.sectionHeading}><h2>Publicaciones recientes</h2><Link to="/articles">Ver todas →</Link></div>
+            <div className="row">
+              {posts.map(post => (
+                <article className="col col--6" key={post.url}>
+                  <div className={styles.postCard}>
+                    <h3><Link to={post.url}>{post.title}</Link></h3>
+                    <p>{post.description}</p>
+                  </div>
+                </article>
+              ))}
             </div>
           </div>
         </section>
-        <section className={styles.sections}>
+        <section className={styles.explore}>
           <div className="container">
-            <div className="row">
-              <div className="col col--3"><h3>Cybersecurity</h3><p>Detección, monitoreo, controles y operación.</p></div>
-              <div className="col col--3"><h3>Infrastructure</h3><p>Redes, sistemas, servicios y arquitectura.</p></div>
-              <div className="col col--3"><h3>Automation</h3><p>Python, PowerShell, APIs e integraciones.</p></div>
-              <div className="col col--3"><h3>AI</h3><p>Fundamentos, LLM y seguridad aplicada.</p></div>
-            </div>
+            <h2>Explorar el sitio</h2>
+            <p><Link to="/articles">Publicaciones</Link> · <Link to="/archive">Archivo</Link> · <Link to="/about">Sobre mí</Link></p>
           </div>
         </section>
       </main>
