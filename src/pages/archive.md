@@ -4,6 +4,10 @@ title: Archivo
 
 # Archivo
 
+## DEV Community
+
+- **[How to change Juniper Mist AI email address](https://dev.to/sberjan/how-to-change-juniper-mist-ai-email-address-382c)** · Guía técnica publicada originalmente en DEV Community.
+
 ## Xecure Blog · 2017
 
 Antes de `chava.berjan.mx` publiqué notas técnicas y de seguridad en **Xecure Blog**. Este espacio conserva esas publicaciones como referencia histórica y como parte de mi trayectoria documentando tecnología.
@@ -35,4 +39,4 @@ Los artículos se mantienen en su publicación original. Las versiones de produc
 
 ---
 
-El archivo documenta lo que publiqué en ese momento. Los artículos actuales de este sitio parten de la experiencia acumulada desde entonces y se publican en [Artículos](/articles).
+El archivo conserva referencias a publicaciones en sus plataformas originales. Los procedimientos históricos deben interpretarse en el contexto de su fecha de publicación. Los artículos actuales de este sitio parten de la experiencia acumulada desde entonces y se publican en [Artículos](/articles).

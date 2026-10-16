@@ -42,11 +42,9 @@ const config = {
     navbar: {
       title: 'Chava Berjan',
       items: [
-        {to: '/knowledge/intro', label: 'Knowledge', position: 'left'},
-        {to: '/articles', label: 'Articles', position: 'left'},
-        {to: '/archive', label: 'Archive', position: 'left'},
-        {to: '/projects', label: 'Projects', position: 'left'},
-        {to: '/about', label: 'About', position: 'left'},
+        {to: '/articles', label: 'Publicaciones', position: 'left'},
+        {to: '/archive', label: 'Archivo', position: 'left'},
+        {to: '/about', label: 'Sobre mí', position: 'left'},
         {href: 'https://github.com/gersonberjan', label: 'GitHub', position: 'right'},
       ],
     },

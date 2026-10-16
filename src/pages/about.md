@@ -1,27 +1,27 @@
-# About
+---
+title: Sobre mí
+---
+
+# Sobre mí
 
 Soy **Chava Berjan**.
 
-Mi trayectoria profesional en tecnología comenzó en **ciberseguridad**. Con el tiempo, la operación me llevó también a trabajar con infraestructura, redes, servicios, nube, gobierno y automatización.
+Mi trayectoria en tecnología ha recorrido infraestructura, redes, servicios, nube, automatización y ciberseguridad. A lo largo de ese camino he aprendido a observar la tecnología no como disciplinas aisladas, sino como capacidades que deben funcionar juntas en la operación.
 
-Ese recorrido ha influido mucho en la manera en que entiendo la tecnología: no como disciplinas aisladas, sino como capacidades que terminan encontrándose en la operación.
+Me interesa entender qué problema resuelve una herramienta, cómo se integra con otros sistemas, qué implica operarla, cómo evaluar sus resultados y cómo convertir la experiencia en conocimiento reutilizable.
 
-Me interesa no sólo implementar herramientas, sino entender qué problema resuelven, cómo funcionan, cómo operarlas, cómo medirlas y cómo convertir lo aprendido en conocimiento reutilizable.
-
-Actualmente sigo trabajando principalmente en **ciberseguridad**, pero mis áreas de interés y estudio abarcan también **Infrastructure, Automation, Cloud e Artificial Intelligence**.
+Actualmente mi trabajo se concentra en **ciberseguridad**, sin dejar de lado los temas de infraestructura, operación, cultura de trabajo, automatización e inteligencia artificial.
 
 ## Este sitio
 
-`chava.berjan.mx` es el punto de encuentro de ese trabajo.
+**chava.berjan.mx** reúne publicaciones, experiencias y conocimiento que he compartido a lo largo de los años.
 
-Aquí publico artículos, documentación, proyectos y aprendizajes técnicos, y conecto el contenido que comparto en otras comunidades y plataformas.
+En [Publicaciones](/articles) desarrollo ideas y reflexiones. El [Archivo](/archive) conserva referencias a textos anteriores publicados en otras plataformas, con su contexto original.
 
-Parte del material se remonta a publicaciones que comencé a realizar en 2017; otras piezas nacen de problemas, proyectos y tecnologías con las que trabajo actualmente.
+También comparto trabajo técnico en [GitHub](https://github.com/gersonberjan).
 
-No busco documentar por documentar. Me interesa compartir aquello que pueda ser entendido, reproducido, discutido o reutilizado por alguien más.
+## Formación y certificaciones
 
-## Contenido y comunidad
+Mi formación incluye certificaciones profesionales y cursos en distintas disciplinas. Puedes consultar las insignias públicas disponibles en [mi perfil de Credly](https://www.credly.com/users/salvador-gerson-berjan-rosas).
 
-**Ciberseguridad desde la operación** es una serie que publico en LinkedIn sobre controles, detección, monitoreo y evolución de capacidades de seguridad.
-
-El código y los proyectos técnicos se publican en GitHub, mientras que el [Archivo](/archive) conserva referencias a publicaciones anteriores como parte de mi trayectoria técnica.
+Más que enumerar credenciales, me interesa compartir cómo el aprendizaje se convierte en experiencia y en mejores decisiones.
