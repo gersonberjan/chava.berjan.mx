@@ -12,6 +12,14 @@ Los artículos permanecen en sus plataformas originales, respetando su contexto 
 
 ## Publicaciones anteriores
 
+### LinkedIn · Ciberseguridad desde la operación
+
+- **[01 · Herramientas vs. controles](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7500568212963475456-790O)** · Sobre la diferencia entre disponer de herramientas y operar controles de seguridad verificables.
+- **[02 · De la detección al contexto](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_te-ha-pasado-que-tu-antivirus-detecta-una-activity-7503127272061849600-gmWh)** · La importancia de interpretar una alerta antes de decidir cómo responder.
+- **[Automatización desde la operación](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7516160974890889217-KFQN)** · Convertir tareas conocidas y repetitivas en procesos automatizados.
+
+Estas referencias enlazan a las publicaciones originales en LinkedIn. Se incorporarán textos completos al sitio cuando se disponga de las versiones definitivas y sus fechas verificadas.
+
 ### DEV Community
 
 - **[How to change Juniper Mist AI email address](https://dev.to/sberjan/how-to-change-juniper-mist-ai-email-address-382c)** · Guía técnica publicada originalmente en DEV Community.
