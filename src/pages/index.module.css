@@ -1,44 +1,11 @@
-.hero {
-  padding: 8rem 0 7rem;
-}
-
-.eyebrow {
-  font-size: .85rem;
-  font-weight: 700;
-  letter-spacing: .16em;
-  margin-bottom: 1rem;
-}
-
-.hero h1 {
-  font-size: clamp(3rem, 7vw, 6rem);
-  line-height: .98;
-  max-width: 900px;
-  margin-bottom: 1.5rem;
-}
-
-.subtitle {
-  font-size: 1.25rem;
-  font-weight: 600;
-}
-
-.description {
-  max-width: 720px;
-  font-size: 1.2rem;
-  line-height: 1.7;
-}
-
-.actions {
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin-top: 2rem;
-}
-
-.sections {
-  padding: 4rem 0 6rem;
-  border-top: 1px solid var(--ifm-color-emphasis-200);
-}
-
-.sections h3 {
-  margin-top: 1.5rem;
-}
+.hero {padding: 7rem 0 6rem;}
+.eyebrow {font-size: .8rem; font-weight: 700; letter-spacing: .15em; margin-bottom: 1.5rem; color: var(--ifm-color-emphasis-700);}
+.hero h1 {font-size: clamp(2.5rem, 5vw, 4.5rem); line-height: 1.1; max-width: 850px; margin-bottom: 1.5rem;}
+.description {max-width: 680px; font-size: 1.2rem; line-height: 1.7; margin-bottom: 2rem;}
+.posts {padding: 4rem 0; border-top: 1px solid var(--ifm-color-emphasis-200);}
+.sectionHeading {display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:1rem; margin-bottom:1.5rem;}
+.postCard {border:1px solid var(--ifm-color-emphasis-200); border-radius:10px; padding:1.75rem; height:100%; margin-bottom:1rem;}
+.postCard h3 {font-size:1.3rem;}
+.postCard p {color:var(--ifm-color-emphasis-700); margin-bottom:0;}
+.explore {padding:3rem 0 5rem; border-top:1px solid var(--ifm-color-emphasis-200);}
+.explore p {font-size:1.1rem;}
