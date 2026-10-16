@@ -14,8 +14,9 @@ export default function Home() {
       <main>
         <section className={styles.hero}>
           <div className="container">
-            <p className={styles.eyebrow}>CHAVA BERJAN</p>
-            <h1>Entender la tecnología desde la experiencia.</h1>
+            <p className={styles.eyebrow}>TECNOLOGÍA · OPERACIÓN · CONOCIMIENTO</p>
+            <h1>Chava Berjan</h1>
+            <h2 className={styles.heroSubtitle}>Entender la tecnología desde la experiencia.</h2>
             <p className={styles.description}>Experiencias, conocimiento y reflexiones sobre tecnología, operación y la forma en que trabajamos.</p>
             <Link className="button button--primary" to="/articles">Leer publicaciones</Link>
           </div>
