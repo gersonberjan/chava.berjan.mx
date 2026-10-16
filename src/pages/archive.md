@@ -4,28 +4,32 @@ title: Archivo
 
 # Archivo
 
-## DEV Community
+Antes de crear este sitio, compartí artículos, notas técnicas y experiencias en distintas plataformas.
+
+Este archivo reúne esas publicaciones como parte de mi trayectoria y de la evolución de mi forma de entender la tecnología.
+
+Los artículos permanecen en sus plataformas originales, respetando su contexto y fecha de publicación. Algunas versiones de productos, comandos y referencias técnicas pueden haber cambiado con el tiempo.
+
+## Publicaciones anteriores
+
+### DEV Community
 
 - **[How to change Juniper Mist AI email address](https://dev.to/sberjan/how-to-change-juniper-mist-ai-email-address-382c)** · Guía técnica publicada originalmente en DEV Community.
 
-## Xecure Blog · 2017
+### Xecure Blog · 2017
 
-Antes de `chava.berjan.mx` publiqué notas técnicas y de seguridad en **Xecure Blog**. Este espacio conserva esas publicaciones como referencia histórica y como parte de mi trayectoria documentando tecnología.
-
-Los artículos se mantienen en su publicación original. Las versiones de productos, comandos, configuraciones y procedimientos corresponden a su contexto de 2017 y pueden no ser aplicables a sistemas actuales.
-
-### Cloud
+#### Cloud
 
 - **31 ene 2017 · [La nube: un cambio de paradigma](https://xecureblog.wordpress.com/2017/01/31/la-nube-un-cambio-de-paradigma/)**
 
-### Infraestructura y Fortinet
+#### Infraestructura y Fortinet
 
 - **2 feb 2017 · [FortiClient se congela al 98 % y se desconecta](https://xecureblog.wordpress.com/2017/02/02/forticlient-se-congela-al-98-y-se-desconecta/)**
 - **17 feb 2017 · [FortiAP offline](https://xecureblog.wordpress.com/2017/02/17/fortiap-offline-2/)**
 - **3 mar 2017 · [Conectar a un appliance Fortinet por puerto de consola](https://xecureblog.wordpress.com/2017/03/03/conectar-a-un-appliance-fortinet-por-puerto-de-consola/)**
 - **30 oct 2017 · [SSL VPN: No more addresses available](https://xecureblog.wordpress.com/2017/10/30/ssl-vpn-no-more-addresses-available/)**
 
-### Seguridad
+#### Seguridad
 
 - **13 may 2017 · [WannaCry: ciberataque global](https://xecureblog.wordpress.com/2017/05/13/wannacry-ciber-ataque-global/)**
 - **15 may 2017 · [Se detiene avance de ciberataque](https://xecureblog.wordpress.com/2017/05/15/se-detiene-avance-de-ciberataque/)**
@@ -39,4 +43,4 @@ Los artículos se mantienen en su publicación original. Las versiones de produc
 
 ---
 
-El archivo conserva referencias a publicaciones en sus plataformas originales. Los procedimientos históricos deben interpretarse en el contexto de su fecha de publicación. Los artículos actuales de este sitio parten de la experiencia acumulada desde entonces y se publican en [Artículos](/articles).
+Para leer contenido desarrollado en este sitio, visita [Publicaciones](/articles).
