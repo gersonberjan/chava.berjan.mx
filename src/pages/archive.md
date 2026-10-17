@@ -18,6 +18,10 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 - **1 sep 2026 · [01 · Herramientas vs. controles](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7500568212963475456-790O)** · Ciberseguridad desde la operación · LinkedIn
 
 
+## 2025
+
+- **25 feb 2025 · [How to change Juniper Mist AI email address](https://dev.to/sberjan/how-to-change-juniper-mist-ai-email-address-382c)** · DEV Community · Inglés
+
 ## 2017
 
 - **9 nov 2017 · [Keylogger en teclado](https://xecureblog.wordpress.com/2017/11/09/keylogger-en-teclado/)**
@@ -34,10 +38,6 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 - **17 feb 2017 · [FortiAP offline](https://xecureblog.wordpress.com/2017/02/17/fortiap-offline-2/)**
 - **2 feb 2017 · [FortiClient se congela al 98 % y se desconecta](https://xecureblog.wordpress.com/2017/02/02/forticlient-se-congela-al-98-y-se-desconecta/)**
 - **31 ene 2017 · [La nube: un cambio de paradigma](https://xecureblog.wordpress.com/2017/01/31/la-nube-un-cambio-de-paradigma/)**
-
-## Fecha por confirmar
-
-- **[How to change Juniper Mist AI email address](https://dev.to/sberjan/how-to-change-juniper-mist-ai-email-address-382c)** · DEV Community
 
 
 ---
