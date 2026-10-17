@@ -10,14 +10,12 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 
 ## 2026
 
+- **14 oct 2026 · [04 · Transformando la experiencia en automatización](https://www.linkedin.com/feed/update/urn:li:activity:7516160974890889217/)** · Ciberseguridad desde la operación · LinkedIn
+- **29 sep 2026 · [03 · Monitorear para entender la operación](https://www.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-share-7510701721074077696-FEbH/)** · Ciberseguridad desde la operación · LinkedIn
 - **29 sep 2026 · [DevOps es una cultura, no un equipo](/articles/devops-es-una-cultura-no-un-equipo)** · chava.berjan.mx
 - **28 sep 2026 · [La nube, casi diez años después](/articles/la-nube-casi-diez-anos-despues)** · chava.berjan.mx
-
-### Publicaciones en LinkedIn
-
-- **[01 · Herramientas vs. controles](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7500568212963475456-790O)** · Ciberseguridad desde la operación
-- **[02 · De la detección al contexto](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_te-ha-pasado-que-tu-antivirus-detecta-una-activity-7503127272061849600-gmWh)** · Ciberseguridad desde la operación
-- **[Automatización desde la operación](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7516160974890889217-KFQN)** · LinkedIn
+- **8 sep 2026 · [02 · De la detección al contexto](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_te-ha-pasado-que-tu-antivirus-detecta-una-activity-7503127272061849600-gmWh)** · Ciberseguridad desde la operación · LinkedIn
+- **1 sep 2026 · [01 · Herramientas vs. controles](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7500568212963475456-790O)** · Ciberseguridad desde la operación · LinkedIn
 
 
 ## Publicaciones en DEV Community
