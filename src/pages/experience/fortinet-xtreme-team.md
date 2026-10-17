@@ -29,12 +29,6 @@ Xtreme Team combinaba capacitación especializada con actividades prácticas. Lo
 
 Mis recuerdos y fotografías abarcan tanto las actividades en los salones de capacitación como los momentos de convivencia. Esas relaciones y conversaciones también son parte de lo que significó participar.
 
-## Una historia en fotografías
-
-Conservo fotografías de las ediciones de **2009, 2010, 2011, 2013 y 2014**: grupos de participantes, sesiones técnicas y algunos momentos fuera del recinto. De **2007 y 2008** conservo el registro de asistencia, pero todavía no he recuperado fotografías.
-
-Las imágenes originales se incorporarán a esta página una vez seleccionadas y preparadas para publicación, conservando su asociación con la edición correspondiente.
-
 ## Mirar atrás
 
 Esta es una parte de mi historia profesional: años de aprendizaje continuo, práctica y relaciones construidas alrededor de una comunidad técnica. La tecnología cambia y los eventos evolucionan, pero las experiencias compartidas siguen teniendo valor.
