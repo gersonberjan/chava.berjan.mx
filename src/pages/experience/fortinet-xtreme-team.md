@@ -7,9 +7,9 @@ description: Siete encuentros de capacitación técnica y comunidad profesional 
 
 *Una experiencia de aprendizaje técnico y comunidad, de 2007 a 2014.*
 
-Durante varios años participé en **Fortinet Xtreme Team**, encuentros de capacitación técnica avanzada que reunían a ingenieros y especialistas de distintos países. En aquella época el evento se llamaba Xtreme Team; más adelante evolucionaría hacia formatos conocidos como Xperts Academy y Xperts Summit.
+Durante varios años participé en **Fortinet Xtreme Team**, encuentros de capacitación técnica avanzada que reunían a ingenieros y especialistas de distintos países. En aquella época el evento se llamaba Xtreme Team; con el tiempo evolucionó hacia otros formatos bajo la denominación Xperts.
 
-Lo que más valoro de aquella experiencia no se limita a los productos o a las sesiones de formación. Los laboratorios, el intercambio de conocimientos y la convivencia con profesionales de otros lugares fueron parte importante de una etapa de mi trayectoria en redes y seguridad.
+Más allá de los productos y las tecnologías, recuerdo los laboratorios, las conversaciones con otros ingenieros y las relaciones profesionales que se construyeron alrededor de esos encuentros.
 
 ## Mis participaciones
 
@@ -23,12 +23,91 @@ Lo que más valoro de aquella experiencia no se limita a los productos o a las s
 | **2013** | San José del Cabo, México |
 | **2014** | Ciudad de Panamá, Panamá |
 
-## Conocimiento y comunidad
+## Memoria fotográfica
 
-Xtreme Team combinaba capacitación especializada con actividades prácticas. Los encuentros también ofrecían oportunidades para contrastar experiencias con otros ingenieros, compartir formas de resolver problemas y conocer personas con intereses técnicos similares.
+Estas imágenes forman parte de mi archivo personal. Las organicé por las ediciones en las que participé, combinando aprendizaje técnico, encuentros entre colegas y algunos momentos de los viajes.
 
-Mis recuerdos y fotografías abarcan tanto las actividades en los salones de capacitación como los momentos de convivencia. Esas relaciones y conversaciones también son parte de lo que significó participar.
+### 2009 · Ciudad de México
 
-## Mirar atrás
+<div className="row">
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2009-grupo.jpg" alt="Grupo de participantes en una edición en Ciudad de México. Xtreme Team 2009" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Grupo de participantes en una edición en Ciudad de México</small>
+  </div>
+</div>
 
-Esta es una parte de mi historia profesional: años de aprendizaje continuo, práctica y relaciones construidas alrededor de una comunidad técnica. La tecnología cambia y los eventos evolucionan, pero las experiencias compartidas siguen teniendo valor.
+### 2010 · Buenos Aires
+
+<div className="row">
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2010-formacion.jpg" alt="Sesión de formación técnica. Xtreme Team 2010" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Sesión de formación técnica</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2010-comunidad.jpg" alt="Participantes durante una convivencia. Xtreme Team 2010" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Participantes durante una convivencia</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2010-buenos-aires.jpg" alt="Puente de la Mujer en Buenos Aires. Xtreme Team 2010" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Puente de la Mujer en Buenos Aires</small>
+  </div>
+</div>
+
+### 2011 · Ciudad de Panamá
+
+<div className="row">
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2011-laboratorio.jpg" alt="Sesión de capacitación con computadoras. Xtreme Team 2011" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Sesión de capacitación con computadoras</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2011-participantes.jpg" alt="Participantes durante una visita al Canal de Panamá. Xtreme Team 2011" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Participantes durante una visita al Canal de Panamá</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2011-canal.jpg" alt="Esclusa del Canal de Panamá. Xtreme Team 2011" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Esclusa del Canal de Panamá</small>
+  </div>
+</div>
+
+### 2013 · San José del Cabo
+
+<div className="row">
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2013-fortihero.jpg" alt="Identificación FortiHero durante una sesión técnica. Xtreme Team 2013" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Identificación FortiHero durante una sesión técnica</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2013-grupo.jpg" alt="Grupo de participantes frente al escenario. Xtreme Team 2013" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Grupo de participantes frente al escenario</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2013-comunidad.jpg" alt="Participantes dentro del salón del evento. Xtreme Team 2013" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Participantes dentro del salón del evento</small>
+  </div>
+</div>
+
+### 2014 · Ciudad de Panamá
+
+<div className="row">
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2014-sesion.jpg" alt="Actividad técnica en el salón de capacitación. Xtreme Team 2014" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Actividad técnica en el salón de capacitación</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2014-comunidad.jpg" alt="Fotografía grupal de participantes. Xtreme Team 2014" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Fotografía grupal de participantes</small>
+  </div>
+  <div className="col col--4 margin-bottom--md">
+    <img src="/img/xtreme-team/2014-escenario.jpg" alt="Escenario con el logotipo histórico de Xtreme Team. Xtreme Team 2014" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
+    <small>Escenario con el logotipo histórico de Xtreme Team</small>
+  </div>
+</div>
+
+### 2007 y 2008 · Ciudad de México
+
+También participé en estas dos ediciones. Por ahora no he recuperado fotografías originales de aquellos encuentros.
+
+## Lo que permanece
+
+Xtreme Team fue parte de una etapa de formación, intercambio y comunidad. Aunque las tecnologías cambian, sigo valorando el aprendizaje práctico y las personas con quienes compartí esas experiencias.
