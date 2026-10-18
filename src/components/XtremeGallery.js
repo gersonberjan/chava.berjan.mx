@@ -25,13 +25,8 @@ export default function XtremeGallery({photos}) {
                 src={photo.src}
                 alt={photo.alt}
                 loading="lazy"
-                onLoad={event => {
-                  const img = event.currentTarget;
-                  img.dataset.orientation = img.naturalHeight > img.naturalWidth ? 'portrait' : 'landscape';
-                }}
               />
             </button>
-            <figcaption>{photo.caption}</figcaption>
           </figure>
         ))}
       </div>
