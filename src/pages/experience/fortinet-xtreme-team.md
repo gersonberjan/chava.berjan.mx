@@ -3,6 +3,8 @@ title: Fortinet Xtreme Team
 description: Siete encuentros de capacitación técnica y comunidad profesional entre 2007 y 2014.
 ---
 
+import XtremeGallery from '@site/src/components/XtremeGallery';
+
 # Fortinet Xtreme Team
 
 *Una experiencia de aprendizaje técnico y comunidad, de 2007 a 2014.*
@@ -29,80 +31,95 @@ Estas imágenes forman parte de mi archivo personal. Las organicé por las edici
 
 ### 2009 · Ciudad de México
 
-<div className="row">
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2009-grupo.jpg" alt="Grupo de participantes en una edición en Ciudad de México. Xtreme Team 2009" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Grupo de participantes en una edición en Ciudad de México</small>
-  </div>
-</div>
+Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia de influenza A(H1N1). Los cubrebocas de la fotografía reflejan cómo se vivía ese momento.
+
+<XtremeGallery photos={[
+  {
+    "src": "/img/2009-grupo.jpg",
+    "alt": "Grupo de participantes en una edición en Ciudad de México. Xtreme Team 2009",
+    "caption": "Grupo de participantes en una edición en Ciudad de México"
+  }
+]} />
 
 ### 2010 · Buenos Aires
 
-<div className="row">
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2010-formacion.jpg" alt="Sesión de formación técnica. Xtreme Team 2010" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Sesión de formación técnica</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2010-comunidad.jpg" alt="Participantes durante una convivencia. Xtreme Team 2010" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Participantes durante una convivencia</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2010-buenos-aires.jpg" alt="Puente de la Mujer en Buenos Aires. Xtreme Team 2010" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Puente de la Mujer en Buenos Aires</small>
-  </div>
-</div>
+<XtremeGallery photos={[
+  {
+    "src": "/img/2010-formacion.jpg",
+    "alt": "Sesión de formación técnica. Xtreme Team 2010",
+    "caption": "Sesión de formación técnica"
+  },
+  {
+    "src": "/img/2010-comunidad.jpg",
+    "alt": "Participantes durante una convivencia. Xtreme Team 2010",
+    "caption": "Participantes durante una convivencia"
+  },
+  {
+    "src": "/img/2010-buenos-aires.jpg",
+    "alt": "Puente de la Mujer en Buenos Aires. Xtreme Team 2010",
+    "caption": "Puente de la Mujer en Buenos Aires"
+  }
+]} />
 
 ### 2011 · Ciudad de Panamá
 
-<div className="row">
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2011-laboratorio.jpg" alt="Sesión de capacitación con computadoras. Xtreme Team 2011" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Sesión de capacitación con computadoras</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2011-participantes.jpg" alt="Participantes durante una visita al Canal de Panamá. Xtreme Team 2011" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Participantes durante una visita al Canal de Panamá</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2011-canal.jpg" alt="Esclusa del Canal de Panamá. Xtreme Team 2011" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Esclusa del Canal de Panamá</small>
-  </div>
-</div>
+<XtremeGallery photos={[
+  {
+    "src": "/img/2011-laboratorio.jpg",
+    "alt": "Sesión de capacitación con computadoras. Xtreme Team 2011",
+    "caption": "Sesión de capacitación con computadoras"
+  },
+  {
+    "src": "/img/2011-participantes.jpg",
+    "alt": "Participantes durante una visita al Canal de Panamá. Xtreme Team 2011",
+    "caption": "Participantes durante una visita al Canal de Panamá"
+  },
+  {
+    "src": "/img/2011-canal.jpg",
+    "alt": "Esclusa del Canal de Panamá. Xtreme Team 2011",
+    "caption": "Esclusa del Canal de Panamá"
+  }
+]} />
 
 ### 2013 · San José del Cabo
 
-<div className="row">
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2013-fortihero.jpg" alt="Identificación FortiHero durante una sesión técnica. Xtreme Team 2013" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Identificación FortiHero durante una sesión técnica</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2013-grupo.jpg" alt="Grupo de participantes frente al escenario. Xtreme Team 2013" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Grupo de participantes frente al escenario</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2013-comunidad.jpg" alt="Participantes dentro del salón del evento. Xtreme Team 2013" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Participantes dentro del salón del evento</small>
-  </div>
-</div>
+<XtremeGallery photos={[
+  {
+    "src": "/img/2013-fortihero.jpg",
+    "alt": "Identificación FortiHero durante una sesión técnica. Xtreme Team 2013",
+    "caption": "Identificación FortiHero durante una sesión técnica"
+  },
+  {
+    "src": "/img/2013-grupo.jpg",
+    "alt": "Grupo de participantes frente al escenario. Xtreme Team 2013",
+    "caption": "Grupo de participantes frente al escenario"
+  },
+  {
+    "src": "/img/2013-comunidad.jpg",
+    "alt": "Participantes dentro del salón del evento. Xtreme Team 2013",
+    "caption": "Participantes dentro del salón del evento"
+  }
+]} />
 
 ### 2014 · Ciudad de Panamá
 
-<div className="row">
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2014-sesion.jpg" alt="Actividad técnica en el salón de capacitación. Xtreme Team 2014" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Actividad técnica en el salón de capacitación</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2014-comunidad.jpg" alt="Fotografía grupal de participantes. Xtreme Team 2014" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Fotografía grupal de participantes</small>
-  </div>
-  <div className="col col--4 margin-bottom--md">
-    <img src="/img/2014-escenario.jpg" alt="Escenario con el logotipo histórico de Xtreme Team. Xtreme Team 2014" loading="lazy" style={{width: "100%", borderRadius: "8px"}} />
-    <small>Escenario con el logotipo histórico de Xtreme Team</small>
-  </div>
-</div>
+<XtremeGallery photos={[
+  {
+    "src": "/img/2014-sesion.jpg",
+    "alt": "Actividad técnica en el salón de capacitación. Xtreme Team 2014",
+    "caption": "Actividad técnica en el salón de capacitación"
+  },
+  {
+    "src": "/img/2014-comunidad.jpg",
+    "alt": "Fotografía grupal de participantes. Xtreme Team 2014",
+    "caption": "Fotografía grupal de participantes"
+  },
+  {
+    "src": "/img/2014-escenario.jpg",
+    "alt": "Escenario con el logotipo histórico de Xtreme Team. Xtreme Team 2014",
+    "caption": "Escenario con el logotipo histórico de Xtreme Team"
+  }
+]} />
 
 ## Lo que permanece
 
