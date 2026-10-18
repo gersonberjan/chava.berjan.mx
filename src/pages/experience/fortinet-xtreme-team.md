@@ -104,10 +104,6 @@ Estas imágenes forman parte de mi archivo personal. Las organicé por las edici
   </div>
 </div>
 
-### 2007 y 2008 · Ciudad de México
-
-También participé en estas dos ediciones. Por ahora no he recuperado fotografías originales de aquellos encuentros.
-
 ## Lo que permanece
 
 Xtreme Team fue parte de una etapa de formación, intercambio y comunidad. Aunque las tecnologías cambian, sigo valorando el aprendizaje práctico y las personas con quienes compartí esas experiencias.
