@@ -37,7 +37,7 @@ Además de las soluciones y tecnologías, recuerdo los laboratorios, las charlas
 | **2013** | San José del Cabo, México |
 | **2014** | Ciudad de Panamá, Panamá |
 
-## Memoria fotográfica
+## Momentos
 
 Compartiendo sesiones, conocimientos y buenos momentos con amigos como Hernán Müller, Pablo Miño, Alexandra Castillo, Yaimarú García, Alejandro Martínez, Martín Hoz, Madwin Cerezo, Víctor Barra, David Ramírez y Héctor Salgado.
 
@@ -70,6 +70,11 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
     "src": "/img/2010-buenos-aires.jpg",
     "alt": "Puente de la Mujer en Buenos Aires. Xtreme Team 2010",
     "caption": "Puente de la Mujer en Buenos Aires"
+  },
+  {
+    "src": "/img/2010-laboratorio-grupal.jpg",
+    "alt": "Participantes trabajando con computadoras y equipos de red durante los laboratorios de Xtreme Team 2010",
+    "caption": "Participantes trabajando con computadoras y equipos de red durante los laboratorios de Xtreme Team 2010"
   }
 ]} />
 
@@ -116,6 +121,21 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
     "src": "/img/2011-canal.jpg",
     "alt": "Esclusa del Canal de Panamá. Xtreme Team 2011",
     "caption": "Esclusa del Canal de Panamá"
+  },
+  {
+    "src": "/img/2011-comida-amigos.jpg",
+    "alt": "Comida con colegas durante Xtreme Team 2011",
+    "caption": "Comida con colegas durante Xtreme Team 2011"
+  },
+  {
+    "src": "/img/2011-companeros.jpg",
+    "alt": "Cinco compañeros durante Xtreme Team Panamá 2011",
+    "caption": "Cinco compañeros durante Xtreme Team Panamá 2011"
+  },
+  {
+    "src": "/img/2011-grupo-general.jpg",
+    "alt": "Fotografía grupal de participantes de Xtreme Team 2011",
+    "caption": "Fotografía grupal de participantes de Xtreme Team 2011"
   }
 ]} />
 
@@ -141,6 +161,16 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
     "src": "/img/xtreme-a04-amigos.jpg",
     "alt": "Grupo de colegas compartiendo un momento en Xtreme Team 2013, San José del Cabo",
     "caption": "Con amigos y colegas"
+  },
+  {
+    "src": "/img/2013-grupo-general.jpg",
+    "alt": "Gran fotografía grupal de participantes de Xtreme Team 2013",
+    "caption": "Gran fotografía grupal de participantes de Xtreme Team 2013"
+  },
+  {
+    "src": "/img/2013-amigos-fortihero.jpg",
+    "alt": "Seis colegas frente al fondo de FortiHero 2013",
+    "caption": "Seis colegas frente al fondo de FortiHero 2013"
   }
 ]} />
 
@@ -161,6 +191,21 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
     "src": "/img/2014-escenario.jpg",
     "alt": "Escenario con el logotipo histórico de Xtreme Team. Xtreme Team 2014",
     "caption": "Escenario con el logotipo histórico de Xtreme Team"
+  },
+  {
+    "src": "/img/2014-capacitacion.jpg",
+    "alt": "Participantes trabajando en una sesión técnica de Xtreme Team 2014",
+    "caption": "Participantes trabajando en una sesión técnica de Xtreme Team 2014"
+  },
+  {
+    "src": "/img/2014-explicacion.jpg",
+    "alt": "Presentación e intercambio con asistentes durante Xtreme Team 2014",
+    "caption": "Presentación e intercambio con asistentes durante Xtreme Team 2014"
+  },
+  {
+    "src": "/img/2014-cena-amigos.jpg",
+    "alt": "Cuatro compañeros durante una cena de Xtreme Team 2014",
+    "caption": "Cuatro compañeros durante una cena de Xtreme Team 2014"
   }
 ]} />
 
