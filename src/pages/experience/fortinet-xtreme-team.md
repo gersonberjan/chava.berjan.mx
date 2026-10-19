@@ -37,7 +37,7 @@ Además de las soluciones y tecnologías, recuerdo los laboratorios, las charlas
 | **2013** | San José del Cabo, México |
 | **2014** | Ciudad de Panamá, Panamá |
 
-## Memoria fotográfica
+## Momentos
 
 Compartiendo sesiones, conocimientos y buenos momentos con amigos como Hernán Müller, Pablo Miño, Alexandra Castillo, Yaimarú García, Alejandro Martínez, Martín Hoz, Madwin Cerezo, Víctor Barra, David Ramírez y Héctor Salgado.
 
