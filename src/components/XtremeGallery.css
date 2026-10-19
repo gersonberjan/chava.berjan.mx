@@ -70,3 +70,23 @@
   .xtreme-gallery { grid-template-columns: minmax(0, 1fr); }
   .xtreme-lightbox { padding: 1rem .5rem; }
 }
+
+
+/* La fotografía de Martín acompaña el recuerdo de la apertura. */
+.xtreme-quote-row { align-items: center; }
+.xtreme-quote-photo .xtreme-gallery {
+  display: block;
+  margin: 0;
+}
+.xtreme-quote-photo .xtreme-gallery__thumbnail img {
+  aspect-ratio: 3 / 4;
+  object-fit: contain;
+  background: var(--ifm-background-surface-color);
+}
+@media (max-width: 996px) {
+  .xtreme-quote-photo { margin-top: 1rem; }
+  .xtreme-quote-photo .xtreme-gallery {
+    max-width: 340px;
+    margin-inline: auto;
+  }
+}
