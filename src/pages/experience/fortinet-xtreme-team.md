@@ -136,6 +136,11 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
     "src": "/img/2013-comunidad.jpg",
     "alt": "Participantes dentro del salón del evento. Xtreme Team 2013",
     "caption": "Participantes dentro del salón del evento"
+  },
+  {
+    "src": "/img/xtreme-a04-amigos.jpg",
+    "alt": "Grupo de colegas compartiendo un momento en Xtreme Team 2013, San José del Cabo",
+    "caption": "Con amigos y colegas"
   }
 ]} />
 
@@ -158,14 +163,6 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
     "caption": "Escenario con el logotipo histórico de Xtreme Team"
   }
 ]} />
-
-### Otros encuentros
-
-<XtremeGallery photos={[{
-  "src": "/img/xtreme-a04-amigos.jpg",
-  "alt": "Grupo de colegas compartiendo un momento fuera de las sesiones técnicas",
-  "caption": "Con amigos y colegas"
-}]} />
 
 ## Lo que permanece
 
