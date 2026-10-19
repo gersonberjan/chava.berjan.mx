@@ -7,11 +7,23 @@ import XtremeGallery from '@site/src/components/XtremeGallery';
 
 # Fortinet Xtreme Team
 
-*Una experiencia de aprendizaje técnico y comunidad, de 2007 a 2014.*
+*La comunidad técnica de Fortinet.*
 
-Durante varios años participé en **Fortinet Xtreme Team**, encuentros de capacitación técnica avanzada que reunían a ingenieros y especialistas de distintos países. En aquella época el evento se llamaba Xtreme Team; con el tiempo evolucionó hacia otros formatos bajo la denominación Xperts.
+Entre 2007 y 2014 tuve la oportunidad de participar en **Fortinet Xtreme Team**, encuentros de capacitación técnica avanzada que reunían a ingenieros y especialistas de distintos países de Latinoamérica.
 
-Más allá de los productos y las tecnologías, recuerdo los laboratorios, las conversaciones con otros ingenieros y las relaciones profesionales que se construyeron alrededor de esos encuentros.
+<div className="row margin-bottom--lg xtreme-quote-row">
+  <div className="col col--7">
+    <p>En aquella época el evento se llamaba Xtreme Team. Recuerdo a Martín Hoz abriendo uno de los encuentros con esta frase:</p>
+    <blockquote><p>“¡Los mejores ingenieros de ciberseguridad de toda Latinoamérica están hoy aquí!”</p></blockquote>
+  </div>
+  <div className="col col--5 xtreme-quote-photo">
+    <XtremeGallery photos={[{"src":"/img/xtreme-a13-martin.jpg","alt":"Martín Hoz durante una intervención en Xtreme Team","caption":"Martín Hoz"}]} />
+  </div>
+</div>
+
+Con el tiempo, el evento evolucionó hacia otros formatos, hasta llegar al actual **Fortinet Xperts Summit**.
+
+Además de las soluciones y tecnologías, recuerdo los laboratorios, las charlas con otros ingenieros y las relaciones profesionales y de amistad que se construyeron en estos encuentros.
 
 ## Mis participaciones
 
@@ -27,7 +39,7 @@ Más allá de los productos y las tecnologías, recuerdo los laboratorios, las c
 
 ## Memoria fotográfica
 
-Estas imágenes forman parte de mi archivo personal. Las organicé por las ediciones en las que participé, combinando aprendizaje técnico, encuentros entre colegas y algunos momentos de los viajes.
+Compartiendo sesiones, conocimientos y buenos momentos con amigos como Hernán Müller, Pablo Miño, Alexandra Castillo, Yaimarú García, Alejandro Martínez, Martín Hoz, Madwin Cerezo, Víctor Barra, David Ramírez y Héctor Salgado.
 
 ### 2009 · Ciudad de México
 
@@ -65,6 +77,32 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
 
 <XtremeGallery photos={[
   {
+    "src": "/img/xtreme-a02-martin.jpg",
+    "alt": "Martín Hoz durante una sesión técnica de Xtreme Team",
+    "caption": "Sesión técnica"
+  },
+  {
+    "src": "/img/xtreme-h01-hernan.jpg",
+    "alt": "Dos colegas en una sala de capacitación durante Xtreme Team 2011",
+    "caption": "Con Hernán"
+  },
+  {
+    "src": "/img/xtreme-a09-alex.jpg",
+    "alt": "Grupo de colegas durante una visita en Ciudad de Panamá en 2011",
+    "caption": "Colegas en Panamá"
+  },
+  {
+    "src": "/img/xtreme-a10-pablo.jpg",
+    "alt": "Dos colegas durante una visita en Ciudad de Panamá en 2011",
+    "caption": "Con Pablo"
+  },
+  {
+    "src": "/img/xtreme-a12-colegas.jpg",
+    "alt": "Colegas durante una visita al Canal de Panamá en 2011",
+    "caption": "Visita y colegas"
+  },
+
+  {
     "src": "/img/2011-laboratorio.jpg",
     "alt": "Sesión de capacitación con computadoras. Xtreme Team 2011",
     "caption": "Sesión de capacitación con computadoras"
@@ -98,6 +136,11 @@ Esta edición de Xtreme Team se realizó cuando México atravesaba la pandemia d
     "src": "/img/2013-comunidad.jpg",
     "alt": "Participantes dentro del salón del evento. Xtreme Team 2013",
     "caption": "Participantes dentro del salón del evento"
+  },
+  {
+    "src": "/img/xtreme-a04-amigos.jpg",
+    "alt": "Grupo de colegas compartiendo un momento en Xtreme Team 2013, San José del Cabo",
+    "caption": "Con amigos y colegas"
   }
 ]} />
 
