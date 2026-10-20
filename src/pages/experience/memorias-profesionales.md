@@ -41,14 +41,16 @@ También de grandes compañeros, buenos amigos y experiencias que han hecho de C
 
 Además de las actividades de formación y los encuentros con colegas, he participado en experiencias como:
 
-- **7 dic 2022:** [Mejorando skills!! — Google Cloud](https://lnkd.in/p/g9qAtyEr).
+- **7 dic 2022:** [Workshop de IA/ML de Google](https://lnkd.in/p/g9qAtyEr).
 - **17 ago 2023:** [AWS Builders League México](https://lnkd.in/p/gmnF8TUK).
 - **5 jun 2024:** [AWS Builders League México — GameDay 1](https://lnkd.in/p/g-pga8-f), con participación remota.
 - **7 ago 2024:** [AWS Summit CDMX](https://lnkd.in/p/g5y5-Pvh).
 
-#### Google Cloud · 2022
+#### Workshop de IA/ML de Google · 2022
 
-<XtremeGallery photos={[{"src":"/img/memorias-contpaqi-10-oficinas.jpg","alt":"Con compañeros durante la experiencia de Google Cloud"}]} />
+Una experiencia de formación en inteligencia artificial y *machine learning*, compartida con compañeros durante mi etapa en CONTPAQi.
+
+<XtremeGallery photos={[{"src":"/img/memorias-contpaqi-10-oficinas.jpg","alt":"Con compañeros durante un workshop de inteligencia artificial y machine learning de Google"}]} />
 
 #### AWS Builders League · 2023
 
