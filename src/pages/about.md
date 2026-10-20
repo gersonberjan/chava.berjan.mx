@@ -18,7 +18,7 @@ Actualmente mi trabajo se concentra en **ciberseguridad**, sin dejar de lado los
 
 En [Publicaciones](/articles) desarrollo ideas y reflexiones. El [Archivo](/archive) conserva referencias a textos anteriores publicados en otras plataformas, con su contexto original.
 
-Una de las experiencias que forman parte de ese recorrido es mi participación en [Fortinet Xtreme Team](/experience/fortinet-xtreme-team), una comunidad de aprendizaje técnico que conocí a través de sus encuentros entre 2007 y 2014.
+En [Memorias profesionales](/experience/memorias-profesionales) comparto fotografías y recuerdos de distintas etapas, compañeros y experiencias. Entre ellas está mi participación en [Fortinet Xtreme Team](/experience/fortinet-xtreme-team), una comunidad de aprendizaje técnico que conocí a través de sus encuentros entre 2007 y 2014.
 
 También comparto trabajo técnico en [GitHub](https://github.com/gersonberjan).
 

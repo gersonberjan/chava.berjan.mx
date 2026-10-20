@@ -44,6 +44,7 @@ const config = {
       items: [
         {to: '/articles', label: 'Publicaciones', position: 'left'},
         {to: '/archive', label: 'Archivo', position: 'left'},
+        {to: '/experience/memorias-profesionales', label: 'Memorias', position: 'left'},
         {to: '/about', label: 'Sobre mí', position: 'left'},
         {href: 'https://github.com/gersonberjan', label: 'GitHub', position: 'right'},
       ],
