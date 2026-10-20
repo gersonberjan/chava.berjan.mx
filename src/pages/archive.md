@@ -24,19 +24,6 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 - **17 sep 2025 · [El uso de la IA: El valor de las personas](https://www.linkedin.com/posts/salvador-berj%C3%A1n-40871317_el-uso-de-la-ia-el-valor-de-las-personas-share-7374202611622674432-BWuP)** · LinkedIn
 - **25 feb 2025 · [How to change Juniper Mist AI email address](https://dev.to/sberjan/how-to-change-juniper-mist-ai-email-address-382c)** · DEV Community · Inglés
 
-## 2024
-
-- **7 ago 2024 · [AWS Summit CDMX](https://lnkd.in/p/g5y5-Pvh)** · LinkedIn
-- **5 jun 2024 · [AWS Builders League México — GameDay 1](https://lnkd.in/p/g-pga8-f)** · LinkedIn
-
-## 2023
-
-- **17 ago 2023 · [AWS Builders League México](https://lnkd.in/p/gmnF8TUK)** · LinkedIn
-
-## 2022
-
-- **7 dic 2022 · [Mejorando skills!! — Google Cloud](https://lnkd.in/p/g9qAtyEr)** · LinkedIn
-
 ## 2017
 
 - **9 nov 2017 · [Keylogger en teclado](https://xecureblog.wordpress.com/2017/11/09/keylogger-en-teclado/)**
