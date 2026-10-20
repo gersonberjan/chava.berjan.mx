@@ -35,7 +35,7 @@ También de grandes compañeros, buenos amigos y experiencias que han hecho de C
 
 ### Equipos y momentos
 
-<XtremeGallery photos={[{"src":"/img/memorias-contpaqi-01-comida.jpg","alt":"Comida con compañeros de CONTPAQi"},{"src":"/img/memorias-contpaqi-03-convencion.jpg","alt":"Convivencia durante evento de colaboradores"},{"src":"/img/memorias-contpaqi-04-equipo-convencion.jpg","alt":"Fotografía grupal en una convención"},{"src":"/img/memorias-contpaqi-06-amigos.jpg","alt":"Comida con compañeros"},{"src":"/img/memorias-contpaqi-10-oficinas.jpg","alt":"Con compañeros frente a oficinas de CONTPAQi"},{"src":"/img/memorias-contpaqi-11-convencion.jpg","alt":"Con compañeros durante un evento"},{"src":"/img/memorias-contpaqi-17-convivencia.jpg","alt":"Convivencia con colegas"},{"src":"/img/memorias-contpaqi-18-amigos.jpg","alt":"Fotografía con compañeros durante una reunión"},{"src":"/img/memorias-contpaqi-19-posada.jpg","alt":"Fotografía de equipo durante una celebración"}] } />
+<XtremeGallery photos={[{"src":"/img/memorias-contpaqi-01-comida.jpg","alt":"Comida con compañeros de CONTPAQi"},{"src":"/img/memorias-contpaqi-03-convencion.jpg","alt":"Convivencia durante evento de colaboradores"},{"src":"/img/memorias-contpaqi-04-equipo-convencion.jpg","alt":"Fotografía grupal en una convención"},{"src":"/img/memorias-contpaqi-06-amigos.jpg","alt":"Comida con compañeros"},{"src":"/img/memorias-contpaqi-11-convencion.jpg","alt":"Con compañeros durante un evento"},{"src":"/img/memorias-contpaqi-17-convivencia.jpg","alt":"Convivencia con colegas"},{"src":"/img/memorias-contpaqi-18-amigos.jpg","alt":"Fotografía con compañeros durante una reunión"},{"src":"/img/memorias-contpaqi-19-posada.jpg","alt":"Fotografía de equipo durante una celebración"}] } />
 
 ### Encuentros y experiencias
 
@@ -45,6 +45,10 @@ Además de las actividades de formación y los encuentros con colegas, he partic
 - **17 ago 2023:** [AWS Builders League México](https://lnkd.in/p/gmnF8TUK).
 - **5 jun 2024:** [AWS Builders League México — GameDay 1](https://lnkd.in/p/g-pga8-f), con participación remota.
 - **7 ago 2024:** [AWS Summit CDMX](https://lnkd.in/p/g5y5-Pvh).
+
+#### Google Cloud · 2022
+
+<XtremeGallery photos={[{"src":"/img/memorias-contpaqi-10-oficinas.jpg","alt":"Con compañeros durante la experiencia de Google Cloud"}]} />
 
 #### AWS Builders League · 2023
 
