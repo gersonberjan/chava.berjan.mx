@@ -48,7 +48,7 @@ Además de las actividades de formación y los encuentros con colegas, he partic
 
 #### Workshop de IA/ML de Google · 2022
 
-Una experiencia de formación en inteligencia artificial y *machine learning*, compartida con compañeros durante mi etapa en CONTPAQi.
+Un workshop práctico de inteligencia artificial y *machine learning* de Google, en CONTPAQi.
 
 <XtremeGallery photos={[{"src":"/img/memorias-contpaqi-10-oficinas.jpg","alt":"Con compañeros durante un workshop de inteligencia artificial y machine learning de Google"}]} />
 
