@@ -40,5 +40,3 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 - **2 feb 2017 · [FortiClient se congela al 98 % y se desconecta](https://xecureblog.wordpress.com/2017/02/02/forticlient-se-congela-al-98-y-se-desconecta/)**
 - **31 ene 2017 · [La nube: un cambio de paradigma](https://xecureblog.wordpress.com/2017/01/31/la-nube-un-cambio-de-paradigma/)**
 
----
-
