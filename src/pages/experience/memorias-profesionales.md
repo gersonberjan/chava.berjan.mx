@@ -15,7 +15,7 @@ Fueron años de mucho trabajo en campo, de conocer diferentes ambientes y propon
 
 Durante esta etapa también tuve la oportunidad de participar en **Fortinet Xtreme Team**, encuentros de capacitación técnica que me permitieron conocer y compartir experiencias con ingenieros de distintos países de Latinoamérica.
 
-[Ver recuerdos de Fortinet Xtreme Team](/experience/fortinet-xtreme-team)
+**[Ver recuerdos de Fortinet Xtreme Team](/experience/fortinet-xtreme-team)**
 
 <XtremeGallery photos={[{"src":"/img/memorias-cero-uno-01-oficina.jpg","alt":"Jornada de oficina en Cero Uno"},{"src":"/img/memorias-cero-uno-02-oficina-fortinet.jpg","alt":"Oficina en Cero Uno con material de Fortinet"},{"src":"/img/memorias-cero-uno-03-laboratorio.jpg","alt":"Pruebas con equipo de red y computadora"},{"src":"/img/memorias-cero-uno-04-trabajo-tecnico.jpg","alt":"Área de trabajo con computadoras y equipo"},{"src":"/img/memorias-cero-uno-05-redes.jpg","alt":"Equipos de red en pruebas"},{"src":"/img/memorias-cero-uno-07-fortianalyzer.jpg","alt":"Consola de FortiAnalyzer junto a equipos de seguridad"},{"src":"/img/memorias-cero-uno-11-curso-cisco.jpg","alt":"Participantes trabajando durante un curso de Cisco en la etapa de Cero Uno"},{"src":"/img/memorias-cero-uno-08-companera.jpg","alt":"Con una compañera en la oficina"},{"src":"/img/memorias-cero-uno-09-companero.jpg","alt":"Con un compañero en la oficina"},{"src":"/img/memorias-cero-uno-10-equipo.jpg","alt":"Recuerdo con compañeros del equipo"}] } />
 
@@ -33,10 +33,8 @@ Una etapa de mucho crecimiento, nuevos retos y aprendizaje constante. De desarro
 
 También de grandes compañeros, buenos amigos y experiencias que han hecho de CONTPAQi una parte muy importante de mi trayectoria profesional.
 
+En CONTPAQi también he participado en workshops y encuentros tecnológicos de Google y AWS.
+
+**[Ver encuentros tecnológicos](/experience/encuentros-tecnologicos)**
+
 <XtremeGallery photos={[{"src":"/img/memorias-contpaqi-01-comida.jpg","alt":"Comida con compañeros de CONTPAQi"},{"src":"/img/memorias-contpaqi-03-convencion.jpg","alt":"Convivencia durante evento de colaboradores"},{"src":"/img/memorias-contpaqi-04-equipo-convencion.jpg","alt":"Fotografía grupal en una convención"},{"src":"/img/memorias-contpaqi-06-amigos.jpg","alt":"Comida con compañeros"},{"src":"/img/memorias-contpaqi-11-convencion.jpg","alt":"Con compañeros durante un evento"},{"src":"/img/memorias-contpaqi-17-convivencia.jpg","alt":"Convivencia con colegas"},{"src":"/img/memorias-contpaqi-18-amigos.jpg","alt":"Fotografía con compañeros durante una reunión"},{"src":"/img/memorias-contpaqi-19-posada.jpg","alt":"Fotografía de equipo durante una celebración"}] } />
-
-### Encuentros tecnológicos
-
-Las experiencias de formación y los eventos de AWS y Google tienen su propio espacio, con fotografías y recuerdos de cada encuentro.
-
-[Ver encuentros tecnológicos](/experience/encuentros-tecnologicos)

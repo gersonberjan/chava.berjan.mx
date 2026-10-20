@@ -4,7 +4,7 @@ title: Archivo
 
 # Archivo
 
-Este es el registro histórico de mis publicaciones, desde las primeras notas técnicas hasta los artículos actuales. Reúne contenido publicado en chava.berjan.mx y en otras plataformas, sin duplicar entradas.
+Este es el registro histórico de mis publicaciones, desde las primeras notas técnicas hasta los artículos actuales. Reúne contenido publicado en chava.berjan.mx y en otras plataformas.
 
 Cada título enlaza al lugar donde se puede leer la publicación. Cuando un artículo se incorpora a este sitio, su publicación original puede quedar referenciada dentro del propio texto.
 
@@ -16,7 +16,6 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 - **28 sep 2026 · [La nube, casi diez años después](/articles/la-nube-casi-diez-anos-despues)** · chava.berjan.mx
 - **8 sep 2026 · [02 · De la detección al contexto](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_te-ha-pasado-que-tu-antivirus-detecta-una-activity-7503127272061849600-gmWh)** · Ciberseguridad desde la operación · LinkedIn
 - **1 sep 2026 · [01 · Herramientas vs. controles](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7500568212963475456-790O)** · Ciberseguridad desde la operación · LinkedIn
-
 
 ## 2025
 
@@ -41,7 +40,3 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 - **2 feb 2017 · [FortiClient se congela al 98 % y se desconecta](https://xecureblog.wordpress.com/2017/02/02/forticlient-se-congela-al-98-y-se-desconecta/)**
 - **31 ene 2017 · [La nube: un cambio de paradigma](https://xecureblog.wordpress.com/2017/01/31/la-nube-un-cambio-de-paradigma/)**
 
-
----
-
-Los procedimientos históricos deben interpretarse en el contexto de su publicación.
