@@ -23,7 +23,7 @@ Un workshop práctico de inteligencia artificial y *machine learning* de Google,
 
 <XtremeGallery photos={[{"src":"/img/memorias-contpaqi-05-builders-comida.jpg","alt":"Comida con participantes de AWS Builders League 2023"},{"src":"/img/memorias-contpaqi-07-builders-equipo.jpg","alt":"Participantes trabajando juntos en AWS Builders League"},{"src":"/img/memorias-contpaqi-12-builders-grupo.jpg","alt":"Fotografía grupal de participantes de AWS Builders League"},{"src":"/img/memorias-contpaqi-13-builders-sesion.jpg","alt":"Trabajo colaborativo en AWS Builders League"},{"src":"/img/memorias-contpaqi-20-builders-grupo.jpg","alt":"Compañeros durante AWS Builders League"},{"src":"/img/memorias-contpaqi-08-aws-oficina.jpg","alt":"Recuerdo durante la visita a AWS"},{"src":"/img/memorias-contpaqi-09-aws-oficina.jpg","alt":"Fotografía durante la visita a AWS"}] } />
 
-## AWS GameDay · 2024
+## AWS Builders League · 2024 — GameDay
 
 Participación remota.
 
