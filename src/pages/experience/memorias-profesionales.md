@@ -33,8 +33,6 @@ Una etapa de mucho crecimiento, nuevos retos y aprendizaje constante. De desarro
 
 También de grandes compañeros, buenos amigos y experiencias que han hecho de CONTPAQi una parte muy importante de mi trayectoria profesional.
 
-### Equipos y momentos
-
 <XtremeGallery photos={[{"src":"/img/memorias-contpaqi-01-comida.jpg","alt":"Comida con compañeros de CONTPAQi"},{"src":"/img/memorias-contpaqi-03-convencion.jpg","alt":"Convivencia durante evento de colaboradores"},{"src":"/img/memorias-contpaqi-04-equipo-convencion.jpg","alt":"Fotografía grupal en una convención"},{"src":"/img/memorias-contpaqi-06-amigos.jpg","alt":"Comida con compañeros"},{"src":"/img/memorias-contpaqi-11-convencion.jpg","alt":"Con compañeros durante un evento"},{"src":"/img/memorias-contpaqi-17-convivencia.jpg","alt":"Convivencia con colegas"},{"src":"/img/memorias-contpaqi-18-amigos.jpg","alt":"Fotografía con compañeros durante una reunión"},{"src":"/img/memorias-contpaqi-19-posada.jpg","alt":"Fotografía de equipo durante una celebración"}] } />
 
 ### Encuentros tecnológicos
