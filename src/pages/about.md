@@ -1,5 +1,6 @@
 ---
 title: Sobre mí
+description: Conoce mi trayectoria en infraestructura, nube, operación, automatización y ciberseguridad, y las experiencias que comparto en este sitio.
 ---
 
 # Sobre mí
