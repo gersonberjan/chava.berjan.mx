@@ -3,6 +3,7 @@ slug: la-nube-casi-diez-anos-despues
 title: La nube, casi diez años después
 authors: [chava]
 tags: [cloud, infraestructura, operacion]
+description: Una reflexión sobre cómo ha cambiado mi forma de entender la nube, las arquitecturas híbridas y las decisiones tecnológicas desde la operación.
 ---
 
 En enero de 2017 publiqué un artículo llamado [*La nube: un cambio de paradigma*](https://xecureblog.wordpress.com/2017/01/31/la-nube-un-cambio-de-paradigma/).
