@@ -10,7 +10,7 @@ const posts = [
 
 export default function Home() {
   return (
-    <Layout title="Inicio" description="Experiencias, conocimiento y reflexiones sobre tecnología y operación.">
+    <Layout title="Tecnología desde la experiencia" description="Experiencias y reflexiones de Chava Berjan sobre ciberseguridad, infraestructura, nube, automatización y operación tecnológica.">
       <main>
         <section className={styles.hero}>
           <div className="container">
