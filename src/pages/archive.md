@@ -1,5 +1,6 @@
 ---
 title: Archivo
+description: Archivo histórico de mis publicaciones técnicas y reflexiones sobre infraestructura, nube, ciberseguridad y operación, reunidas desde distintas plataformas.
 ---
 
 # Archivo
