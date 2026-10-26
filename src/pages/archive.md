@@ -11,6 +11,7 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 
 ## 2026
 
+- **20 oct 2026 · [24 herramientas OSINT para el reconocimiento y análisis de exposición](https://www.linkedin.com/feed/update/urn:li:activity:7518333136259276801/)** · Ciberseguridad / OSINT · LinkedIn
 - **14 oct 2026 · [04 · Transformando la experiencia en automatización](https://www.linkedin.com/feed/update/urn:li:activity:7516160974890889217/)** · Ciberseguridad desde la operación · LinkedIn
 - **29 sep 2026 · [03 · Monitorear para entender la operación](https://www.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-share-7510701721074077696-FEbH/)** · Ciberseguridad desde la operación · LinkedIn
 - **29 sep 2026 · [DevOps es una cultura, no un equipo](/articles/devops-es-una-cultura-no-un-equipo)** · chava.berjan.mx
