@@ -4,7 +4,7 @@ const path = require('node:path');
 const file = path.join(__dirname, '..', 'build', '404.html');
 const html = fs.readFileSync(file, 'utf8');
 const robotsTag = '<meta name="robots" content="noindex, follow">';
-if (/<meta\\s+[^>]*name=["']robots["']/i.test(html)) {
+if (/<meta\s+[^>]*name=["']robots["']/i.test(html)) {
   throw new Error('404.html already contains a robots meta tag; review it before changing');
 }
 if (!html.includes('</head>')) {
