@@ -16,9 +16,10 @@ export default function TOC(props) {
   if (isMemoriesIndex) {
     // The headings are nested under their employer sections in the TOC tree.
     const remapLinks = (items = []) => items.map((item) => {
-      const target = item.value === 'Fortinet Xtreme Team'
+      const id = item.id || (item.href || '').replace(/^#/, '');
+      const target = id === 'fortinet-xtreme-team'
         ? '/experience/fortinet-xtreme-team'
-        : item.value === 'Encuentros tecnológicos'
+        : id === 'encuentros-tecnologicos'
           ? '/experience/encuentros-tecnologicos'
           : null;
       return {
