@@ -7,6 +7,8 @@ import XtremeGallery from '@site/src/components/XtremeGallery';
 
 # Encuentros tecnológicos
 
+<div className="memories-mobile-back"><a href="/experience/memorias-profesionales">← Volver a Memorias</a></div>
+
 Workshops, retos técnicos y encuentros con compañeros y comunidades de tecnología.
 
 ## Workshop de IA/ML de Google · 2022
