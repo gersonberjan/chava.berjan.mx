@@ -29,3 +29,14 @@
   font-weight: 600;
   text-decoration: none;
 }
+
+/* Mobile navigation for pages whose right-side table of contents is hidden. */
+.memories-mobile-link,
+.memories-mobile-back { display: none; }
+
+@media (max-width: 996px) {
+  .memories-mobile-link,
+  .memories-mobile-back { display: block; margin: 0.65rem 0 1rem; }
+  .memories-mobile-link a,
+  .memories-mobile-back a { font-weight: 600; }
+}
