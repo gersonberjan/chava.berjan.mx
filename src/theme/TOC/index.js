@@ -31,7 +31,7 @@ function MemoriesTOCItems({items = []}) {
             {destination ? (
               <Link className="table-of-contents__link" to={destination}>{label}</Link>
             ) : (
-              <a className="table-of-contents__link" href={item.href}
+              <a className="table-of-contents__link" href={`#${id}`}
                 dangerouslySetInnerHTML={{__html: label}} />
             )}
             {item.children?.length > 0 && <MemoriesTOCItems items={item.children} />}
