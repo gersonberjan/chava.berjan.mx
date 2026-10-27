@@ -10,7 +10,7 @@ const memorySubpages = new Set([
 
 export default function TOC(props) {
   const {pathname} = useLocation();
-  const showReturn = memorySubpages.has(pathname.replace(/\\/$/, ''));
+  const showReturn = memorySubpages.has(pathname.replace(/\/$/, ''));
 
   if (!showReturn) return <TOCOriginal {...props} />;
 
