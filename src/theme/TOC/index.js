@@ -20,9 +20,11 @@ function MemoriesTOCItems({items = []}) {
     <ul className="table-of-contents table-of-contents__left-border">
       {items.map((item) => {
         const id = item.id || (item.href || '').replace(/^#/, '');
-        const destination = destinationById[id];
+        // Docusaurus may retain accented characters in generated heading IDs.
+        const normalizedId = decodeURIComponent(id).normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        const destination = destinationById[normalizedId];
         const label = destination
-          ? (id === 'fortinet-xtreme-team' ? 'Fortinet Xtreme Team' : 'Encuentros tecnológicos')
+          ? (normalizedId === 'fortinet-xtreme-team' ? 'Fortinet Xtreme Team' : 'Encuentros tecnológicos')
           : item.value;
         return (
           <li key={item.id || item.href} className="memories-toc-item">
