@@ -19,3 +19,13 @@
   letter-spacing: -.02em;
   font-size: 1.2rem;
 }
+
+/* Navigation back to the Memories index, above the right-side table of contents. */
+.memories-toc-navigation .memories-toc-return {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+}
