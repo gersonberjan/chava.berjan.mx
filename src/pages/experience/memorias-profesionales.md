@@ -9,6 +9,14 @@ import XtremeGallery from '@site/src/components/XtremeGallery';
 
 Fotografías y recuerdos de compañeros, proyectos, encuentros y momentos que he compartido a lo largo de mi trayectoria.
 
+### Explorar memorias
+
+- [Cero Uno Software Corporativo](#cero-uno-software-corporativo)
+  - [Fortinet Xtreme Team](/experience/fortinet-xtreme-team)
+- [Assetel](#assetel)
+- [CONTPAQi](#contpaqi)
+  - [Encuentros tecnológicos](/experience/encuentros-tecnologicos)
+
 ## Cero Uno Software Corporativo
 
 Fueron años de mucho trabajo en campo, de conocer diferentes ambientes y proponer arquitecturas. También de desarrollar a mi equipo, compartir conocimientos y establecer relaciones profesionales y grandes amistades.
