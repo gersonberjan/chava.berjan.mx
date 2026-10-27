@@ -8,37 +8,29 @@ const memorySubpages = new Set([
   '/experience/encuentros-tecnologicos',
 ]);
 
-const destinationById = {
-  'fortinet-xtreme-team': '/experience/fortinet-xtreme-team',
-  'encuentros-tecnologicos': '/experience/encuentros-tecnologicos',
-};
-
-// Render this page's TOC ourselves: Docusaurus's automatic TOC is designed
-// primarily for in-page anchors, not links to other pages.
-function MemoriesTOCItems({items = []}) {
+// This index has a fixed hierarchy: employers are in-page anchors and
+// their related memories are separate pages.
+function MemoriesTOC() {
   return (
-    <ul className="table-of-contents table-of-contents__left-border">
-      {items.map((item) => {
-        const id = item.id || (item.href || '').replace(/^#/, '');
-        // Docusaurus may retain accented characters in generated heading IDs.
-        const normalizedId = decodeURIComponent(id).normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-        const destination = destinationById[normalizedId];
-        const label = destination
-          ? (normalizedId === 'fortinet-xtreme-team' ? 'Fortinet Xtreme Team' : 'Encuentros tecnológicos')
-          : item.value;
-        return (
-          <li key={item.id || item.href} className="memories-toc-item">
-            {destination ? (
-              <Link className="table-of-contents__link" to={destination}>{label}</Link>
-            ) : (
-              <a className="table-of-contents__link" href={`#${id}`}
-                dangerouslySetInnerHTML={{__html: label}} />
-            )}
-            {item.children?.length > 0 && <MemoriesTOCItems items={item.children} />}
-          </li>
-        );
-      })}
-    </ul>
+    <nav aria-label="Índice de Memorias">
+      <ul className="table-of-contents table-of-contents__left-border memories-toc-list">
+        <li>
+          <a className="table-of-contents__link" href="#cero-uno-software-corporativo">Cero Uno Software Corporativo</a>
+          <ul>
+            <li><Link className="table-of-contents__link" to="/experience/fortinet-xtreme-team">Fortinet Xtreme Team</Link></li>
+          </ul>
+        </li>
+        <li>
+          <a className="table-of-contents__link" href="#assetel">Assetel</a>
+        </li>
+        <li>
+          <a className="table-of-contents__link" href="#contpaqi">CONTPAQi</a>
+          <ul>
+            <li><Link className="table-of-contents__link" to="/experience/encuentros-tecnologicos">Encuentros tecnológicos</Link></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
   );
 }
 
@@ -47,7 +39,7 @@ export default function TOC(props) {
   const path = pathname.replace(/\/$/, '');
 
   if (path === '/experience/memorias-profesionales') {
-    return <nav aria-label="Índice de Memorias"><MemoriesTOCItems items={props.toc} /></nav>;
+    return <MemoriesTOC />;
   }
 
   if (!memorySubpages.has(path)) return <TOCOriginal {...props} />;
