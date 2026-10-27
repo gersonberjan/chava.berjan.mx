@@ -11,6 +11,7 @@ Cada título enlaza al lugar donde se puede leer la publicación. Cuando un art�
 
 ## 2026
 
+- **27 oct 2026 · [¿Quién está educando a nuestros hijos?](https://www.linkedin.com/feed/update/urn:li:activity:7520863478450946050/)** · Educación digital y familia · LinkedIn
 - **21 oct 2026 · [Actualización prioritaria de Fortinet](https://www.linkedin.com/posts/salvador-berj%C3%A1n-40871317_fortinet-share-7518800546980532224--RLI/)** · Ciberseguridad / Fortinet · LinkedIn
 - **20 oct 2026 · [Esto lo hice con IA y la IA no se equivoca](https://www.linkedin.com/feed/update/urn:li:activity:7518333136259276801/)** · Inteligencia artificial y liderazgo · LinkedIn
 - **14 oct 2026 · [04 · Transformando la experiencia en automatización](https://www.linkedin.com/feed/update/urn:li:activity:7516160974890889217/)** · Ciberseguridad desde la operación · LinkedIn
