@@ -40,3 +40,8 @@
   .memories-mobile-link a,
   .memories-mobile-back a { font-weight: 600; }
 }
+
+/* Keep the nested entries in the right TOC without duplicating prose links. */
+#fortinet-xtreme-team,
+#encuentros-tecnologicos,
+#encuentros-tecnológicos { display: none; }
