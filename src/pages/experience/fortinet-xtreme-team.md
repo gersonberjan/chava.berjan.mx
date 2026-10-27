@@ -7,6 +7,8 @@ import XtremeGallery from '@site/src/components/XtremeGallery';
 
 # Fortinet Xtreme Team
 
+<div className="memories-mobile-back"><a href="/experience/memorias-profesionales">← Volver a Memorias</a></div>
+
 *La comunidad técnica de Fortinet.*
 
 Entre 2007 y 2014 tuve la oportunidad de participar en **Fortinet Xtreme Team**, encuentros de capacitación técnica avanzada que reunían a ingenieros y especialistas de distintos países de Latinoamérica.
