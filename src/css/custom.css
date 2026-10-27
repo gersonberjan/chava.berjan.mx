@@ -45,3 +45,13 @@
 #fortinet-xtreme-team,
 #encuentros-tecnologicos,
 #encuentros-tecnológicos { display: none; }
+
+/* Explicit nested hierarchy for the Memories right-hand navigation. */
+.memories-toc-list > li > ul {
+  list-style: none;
+  margin: 0.2rem 0 0.5rem 0;
+  padding-left: 1rem;
+}
+.memories-toc-list > li > ul .table-of-contents__link {
+  font-size: 0.9em;
+}
