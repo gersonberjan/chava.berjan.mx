@@ -12,6 +12,19 @@ export default function TOC(props) {
   const {pathname} = useLocation();
   const showReturn = memorySubpages.has(pathname.replace(/\/$/, ''));
 
+  const isMemoriesIndex = pathname.replace(/\/$/, '') === '/experience/memorias-profesionales';
+  if (isMemoriesIndex) {
+    const toc = props.toc?.map((item) => {
+      const target = item.value === 'Fortinet Xtreme Team'
+        ? '/experience/fortinet-xtreme-team'
+        : item.value === 'Encuentros tecnológicos'
+          ? '/experience/encuentros-tecnologicos'
+          : null;
+      return target ? {...item, href: target} : item;
+    });
+    return <TOCOriginal {...props} toc={toc} />;
+  }
+
   if (!showReturn) return <TOCOriginal {...props} />;
 
   return (
