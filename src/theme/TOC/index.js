@@ -14,14 +14,20 @@ export default function TOC(props) {
 
   const isMemoriesIndex = pathname.replace(/\/$/, '') === '/experience/memorias-profesionales';
   if (isMemoriesIndex) {
-    const toc = props.toc?.map((item) => {
+    // The headings are nested under their employer sections in the TOC tree.
+    const remapLinks = (items = []) => items.map((item) => {
       const target = item.value === 'Fortinet Xtreme Team'
         ? '/experience/fortinet-xtreme-team'
         : item.value === 'Encuentros tecnológicos'
           ? '/experience/encuentros-tecnologicos'
           : null;
-      return target ? {...item, href: target} : item;
+      return {
+        ...item,
+        ...(target ? {href: target} : {}),
+        ...(item.children ? {children: remapLinks(item.children)} : {}),
+      };
     });
+    const toc = remapLinks(props.toc);
     return <TOCOriginal {...props} toc={toc} />;
   }
 
