@@ -36,7 +36,7 @@ Beyond the solutions and technologies, I remember the labs, conversations with f
 | **2009** | Mexico City, Mexico |
 | **2010** | Buenos Aires, Argentina |
 | **2011** | Panama City, Panama |
-| **2013** | San José del Cabo, México |
+| **2013** | San José del Cabo, Mexico |
 | **2014** | Panama City, Panama |
 
 ## Moments
@@ -86,7 +86,7 @@ This edition of Xtreme Team took place during the A(H1N1) influenza pandemic in 
   {
     "src": "/img/xtreme-a02-martin.jpg",
     "alt": "Martín Hoz during an Xtreme Team technical session",
-    "caption": "Sesión técnica"
+    "caption": "Technical session"
   },
   {
     "src": "/img/xtreme-h01-hernan.jpg",
@@ -161,12 +161,12 @@ This edition of Xtreme Team took place during the A(H1N1) influenza pandemic in 
   },
   {
     "src": "/img/xtreme-a04-amigos.jpg",
-    "alt": "Colleagues sharing a moment en Xtreme Team 2013, San José del Cabo",
+    "alt": "Colleagues sharing a moment at Xtreme Team 2013, San José del Cabo",
     "caption": "With friends and colleagues"
   },
   {
     "src": "/img/2013-grupo-general.jpg",
-    "alt": "Large group photograph of participants de Xtreme Team 2013",
+    "alt": "Large group photograph of participants at Xtreme Team 2013",
     "caption": "Large group photograph of participants de Xtreme Team 2013"
   },
   {
@@ -196,17 +196,17 @@ This edition of Xtreme Team took place during the A(H1N1) influenza pandemic in 
   },
   {
     "src": "/img/2014-capacitacion.jpg",
-    "alt": "Participants working in a technical session de Xtreme Team 2014",
+    "alt": "Participants working in a technical session at Xtreme Team 2014",
     "caption": "Participants working in a technical session de Xtreme Team 2014"
   },
   {
     "src": "/img/2014-explicacion.jpg",
-    "alt": "Presentation and discussion with attendees durante Xtreme Team 2014",
+    "alt": "Presentation and discussion with attendees during Xtreme Team 2014",
     "caption": "Presentation and discussion with attendees durante Xtreme Team 2014"
   },
   {
     "src": "/img/2014-cena-amigos.jpg",
-    "alt": "Four colleagues at a dinner de Xtreme Team 2014",
+    "alt": "Four colleagues at a dinner at Xtreme Team 2014",
     "caption": "Four colleagues at a dinner de Xtreme Team 2014"
   }
 ]} />
