@@ -17,9 +17,9 @@ My current work focuses on **cybersecurity**, while I continue to explore infras
 
 **chava.berjan.mx** brings together articles, experiences and knowledge I have shared over the years.
 
-In [Articles](/articles), I develop ideas and reflections. The [Archive](/archive) preserves references to earlier pieces published elsewhere, with their original context.
+In [Articles](/en/articles), I develop ideas and reflections. The [Archive](/en/archive) preserves references to earlier pieces published elsewhere, with their original context.
 
-In [Professional memories](/experience/memorias-profesionales), I share photographs and memories of different stages of my career, colleagues and experiences. These include [Fortinet Xtreme Team](/experience/fortinet-xtreme-team), its technical training events, and [Technology events](/experience/encuentros-tecnologicos) with Google and AWS, where I have had the opportunity to learn and exchange experiences.
+In [Professional memories](/en/experience/memorias-profesionales), I share photographs and memories of different stages of my career, colleagues and experiences. These include [Fortinet Xtreme Team](/en/experience/fortinet-xtreme-team), its technical training events, and [Technology events](/en/experience/encuentros-tecnologicos) with Google and AWS, where I have had the opportunity to learn and exchange experiences.
 
 I also share technical work on [GitHub](https://github.com/gersonberjan).
 
