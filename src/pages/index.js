@@ -2,6 +2,7 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 const posts = [
   {title: 'DevOps es una cultura, no un equipo', url: '/articles/devops-es-una-cultura-no-un-equipo', description: 'Una experiencia sobre agilidad, automatización y colaboración entre Desarrollo, Operaciones y Seguridad.'},
@@ -9,23 +10,29 @@ const posts = [
 ];
 
 export default function Home() {
+  const {i18n: {currentLocale}} = useDocusaurusContext();
+  const en = currentLocale === 'en';
+  const localizedPosts = en ? [
+    {title: 'DevOps is a culture, not a team', url: '/articles/devops-es-una-cultura-no-un-equipo', description: 'An experience with agility, automation and collaboration across Development, Operations and Security.'},
+    {title: 'The cloud, almost ten years later', url: '/articles/la-nube-casi-diez-anos-despues', description: 'A reflection on cloud, digital operations and technology decisions.'},
+  ] : posts;
   return (
-    <Layout title="Tecnología desde la experiencia" description="Experiencias y reflexiones de Chava Berjan sobre ciberseguridad, infraestructura, nube, automatización y operación tecnológica.">
+    <Layout title={en ? "Technology through experience" : "Tecnología desde la experiencia"} description={en ? "Chava Berjan’s experiences and reflections on cybersecurity, infrastructure, cloud, automation and technology operations." : "Experiencias y reflexiones de Chava Berjan sobre ciberseguridad, infraestructura, nube, automatización y operación tecnológica."}>
       <main>
         <section className={styles.hero}>
           <div className="container">
-            <p className={styles.eyebrow}>TECNOLOGÍA · OPERACIÓN · CONOCIMIENTO</p>
+            <p className={styles.eyebrow}>{en ? 'TECHNOLOGY · OPERATIONS · KNOWLEDGE' : 'TECNOLOGÍA · OPERACIÓN · CONOCIMIENTO'}</p>
             <h1>Chava Berjan</h1>
-            <h2 className={styles.heroSubtitle}>Entender la tecnología desde la experiencia.</h2>
-            <p className={styles.description}>Experiencias, conocimiento y reflexiones sobre tecnología, operación y la forma en que trabajamos.</p>
-            <Link className="button button--primary" to="/articles">Leer publicaciones</Link>
+            <h2 className={styles.heroSubtitle}>{en ? 'Understanding technology through experience.' : 'Entender la tecnología desde la experiencia.'}</h2>
+            <p className={styles.description}>{en ? 'Experiences, knowledge and reflections on technology, operations and how we work.' : 'Experiencias, conocimiento y reflexiones sobre tecnología, operación y la forma en que trabajamos.'}</p>
+            <Link className="button button--primary" to="/articles">{en ? 'Read articles' : 'Leer publicaciones'}</Link>
           </div>
         </section>
         <section className={styles.posts}>
           <div className="container">
-            <div className={styles.sectionHeading}><h2>Publicaciones recientes</h2><Link to="/articles">Ver todas →</Link></div>
+            <div className={styles.sectionHeading}><h2>{en ? 'Recent articles' : 'Publicaciones recientes'}</h2><Link to="/articles">{en ? 'View all →' : 'Ver todas →'}</Link></div>
             <div className="row">
-              {posts.map(post => (
+              {localizedPosts.map(post => (
                 <article className="col col--6" key={post.url}>
                   <div className={styles.postCard}>
                     <h3><Link to={post.url}>{post.title}</Link></h3>
@@ -38,8 +45,8 @@ export default function Home() {
         </section>
         <section className={styles.explore}>
           <div className="container">
-            <h2>Explorar el sitio</h2>
-            <p><Link to="/articles">Publicaciones</Link> · <Link to="/archive">Archivo</Link> · <Link to="/about">Sobre mí</Link></p>
+            <h2>{en ? 'Explore the website' : 'Explorar el sitio'}</h2>
+            <p><Link to="/articles">{en ? 'Articles' : 'Publicaciones'}</Link> · <Link to="/archive">{en ? 'Archive' : 'Archivo'}</Link> · <Link to="/about">{en ? 'About me' : 'Sobre mí'}</Link></p>
           </div>
         </section>
       </main>
