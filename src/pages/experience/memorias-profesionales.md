@@ -35,10 +35,6 @@ También de grandes compañeros, buenos amigos y experiencias que han hecho de C
 
 En CONTPAQi también he participado en workshops y [encuentros tecnológicos](/experience/encuentros-tecnologicos) de Google y AWS.
 
-### Encuentros tecnológicos
-
-<XtremeGallery photos={[{"src":"/img/memorias-contpaqi-01-comida.jpg","alt":"Comida con compañeros de CONTPAQi"},{"src":"/img/memorias-contpaqi-03-convencion.jpg","alt":"Convivencia durante evento de colaboradores"},{"src":"/img/memorias-contpaqi-04-equipo-convencion.jpg","alt":"Fotografía grupal en una convención"},{"src":"/img/memorias-contpaqi-06-amigos.jpg","alt":"Comida con compañeros"},{"src":"/img/memorias-contpaqi-11-convencion.jpg","alt":"Con compañeros durante un evento"},{"src":"/img/memorias-contpaqi-17-convivencia.jpg","alt":"Convivencia con colegas"},{"src":"/img/memorias-contpaqi-18-amigos.jpg","alt":"Fotografía con compañeros durante una reunión"},{"src":"/img/memorias-contpaqi-19-posada.jpg","alt":"Fotografía de equipo durante una celebración"},{"src":"/img/memorias-contpaqi-22-nuevas-oficinas.jpg","alt":"En las nuevas oficinas de CONTPAQi"}] } />
-
 ### Explicando qué es un Sistema de Gestión de Seguridad de la Información
 
 Durante mi trayectoria en CONTPAQi he tenido la oportunidad de participar en diferentes espacios para compartir conocimientos y experiencias. En esta ocasión, junto con mi líder Pepe, participamos en una serie de entrevistas para explicar qué es un Sistema de Gestión de Seguridad de la Información (SGSI).
@@ -62,3 +58,7 @@ Algo que me parece valioso al recuperar estos videos es reconocer que mi manera 
 </div>
 
 [Ver la Parte 2 en YouTube](https://www.youtube.com/watch?v=Zv6f_lDhq_c)
+
+### Encuentros tecnológicos
+
+<XtremeGallery photos={[{"src":"/img/memorias-contpaqi-01-comida.jpg","alt":"Comida con compañeros de CONTPAQi"},{"src":"/img/memorias-contpaqi-03-convencion.jpg","alt":"Convivencia durante evento de colaboradores"},{"src":"/img/memorias-contpaqi-04-equipo-convencion.jpg","alt":"Fotografía grupal en una convención"},{"src":"/img/memorias-contpaqi-06-amigos.jpg","alt":"Comida con compañeros"},{"src":"/img/memorias-contpaqi-11-convencion.jpg","alt":"Con compañeros durante un evento"},{"src":"/img/memorias-contpaqi-17-convivencia.jpg","alt":"Convivencia con colegas"},{"src":"/img/memorias-contpaqi-18-amigos.jpg","alt":"Fotografía con compañeros durante una reunión"},{"src":"/img/memorias-contpaqi-19-posada.jpg","alt":"Fotografía de equipo durante una celebración"},{"src":"/img/memorias-contpaqi-22-nuevas-oficinas.jpg","alt":"En las nuevas oficinas de CONTPAQi"}] } />
