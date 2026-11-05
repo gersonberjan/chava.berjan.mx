@@ -19,7 +19,7 @@ function MemoriesTOC() {
     <nav aria-label="Índice de Memorias">
       <ul className="table-of-contents table-of-contents__left-border memories-toc-list">
         <li>
-          <a className="table-of-contents__link" href="#cero-uno-software-corporativo">{en ? 'Cero Uno Software Corporativo' : 'Cero Uno Software Corporativo'}</a>
+          <a className="table-of-contents__link" href="#cero-uno-software-corporativo">Cero Uno Software Corporativo</a>
           <ul>
             <li><Link className="table-of-contents__link" to="/experience/fortinet-xtreme-team">Fortinet Xtreme Team</Link></li>
           </ul>
