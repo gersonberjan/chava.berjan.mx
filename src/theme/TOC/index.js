@@ -15,13 +15,14 @@ const memorySubpages = new Set([
 function MemoriesTOC() {
   const {i18n: {currentLocale}} = useDocusaurusContext();
   const en = currentLocale === 'en';
+  const memoryPath = en ? '/en/experience/' : '/experience/';
   return (
     <nav aria-label={en ? "Memories index" : "Índice de Memorias"}>
       <ul className="table-of-contents table-of-contents__left-border memories-toc-list">
         <li>
           <a className="table-of-contents__link" href="#cero-uno-software-corporativo">Cero Uno Software Corporativo</a>
           <ul>
-            <li><Link className="table-of-contents__link" to="/experience/fortinet-xtreme-team">Fortinet Xtreme Team</Link></li>
+            <li><Link className="table-of-contents__link" to={`${memoryPath}fortinet-xtreme-team`}>Fortinet Xtreme Team</Link></li>
           </ul>
         </li>
         <li>
@@ -30,8 +31,8 @@ function MemoriesTOC() {
         <li>
           <a className="table-of-contents__link" href="#contpaqi">CONTPAQi</a>
           <ul>
-            <li><Link className="table-of-contents__link" to="/experience/entrevistas-sgsi">{en ? 'Interviews about the ISMS' : 'Entrevistas sobre el SGSI'}</Link></li>
-            <li><Link className="table-of-contents__link" to="/experience/encuentros-tecnologicos">{en ? 'Technology events' : 'Encuentros tecnológicos'}</Link></li>
+            <li><Link className="table-of-contents__link" to={`${memoryPath}entrevistas-sgsi`}>{en ? 'Interviews about the ISMS' : 'Entrevistas sobre el SGSI'}</Link></li>
+            <li><Link className="table-of-contents__link" to={`${memoryPath}encuentros-tecnologicos`}>{en ? 'Technology events' : 'Encuentros tecnológicos'}</Link></li>
           </ul>
         </li>
       </ul>
@@ -53,7 +54,7 @@ export default function TOC(props) {
 
   return (
     <div className="memories-toc-navigation">
-      <Link className="memories-toc-return" to="/experience/memorias-profesionales">
+      <Link className="memories-toc-return" to={en ? "/en/experience/memorias-profesionales" : "/experience/memorias-profesionales"}>
         {en ? '← Back to Memories' : '← Volver a Memorias'}
       </Link>
       <TOCOriginal {...props} />
