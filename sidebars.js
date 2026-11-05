@@ -4,22 +4,22 @@ const sidebars = {
     'intro',
     {
       type: 'category',
-      label: 'Cybersecurity',
+      label: 'Ciberseguridad',
       items: ['cybersecurity/index'],
     },
     {
       type: 'category',
-      label: 'Infrastructure',
+      label: 'Infraestructura',
       items: ['infrastructure/index'],
     },
     {
       type: 'category',
-      label: 'Automation',
+      label: 'Automatización',
       items: ['automation/index'],
     },
     {
       type: 'category',
-      label: 'Artificial Intelligence',
+      label: 'Inteligencia artificial',
       items: ['ai/index'],
     },
   ],
