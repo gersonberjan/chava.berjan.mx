@@ -16,7 +16,7 @@ function MemoriesTOC() {
   const {i18n: {currentLocale}} = useDocusaurusContext();
   const en = currentLocale === 'en';
   return (
-    <nav aria-label="Índice de Memorias">
+    <nav aria-label={en ? "Memories index" : "Índice de Memorias"}>
       <ul className="table-of-contents table-of-contents__left-border memories-toc-list">
         <li>
           <a className="table-of-contents__link" href="#cero-uno-software-corporativo">Cero Uno Software Corporativo</a>
