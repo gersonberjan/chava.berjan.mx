@@ -1,0 +1,14 @@
+{
+  "sidebar.knowledgeSidebar.category.Ciberseguridad": {
+    "message": "Cybersecurity"
+  },
+  "sidebar.knowledgeSidebar.category.Infraestructura": {
+    "message": "Infrastructure"
+  },
+  "sidebar.knowledgeSidebar.category.Automatización": {
+    "message": "Automation"
+  },
+  "sidebar.knowledgeSidebar.category.Inteligencia artificial": {
+    "message": "Artificial Intelligence"
+  }
+}
