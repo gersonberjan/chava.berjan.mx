@@ -27,7 +27,9 @@ for (const route of routes) {
   const english = read('en', route);
   for (const [locale, html] of [['es', spanish], ['en', english]]) {
     if (!html) continue;
-    if (!/<html[^>]+lang=["'](?:es-MX|en-US)["']/i.test(html)) {
+    const expectedLang = locale === 'en' ? 'en-US' : 'es-MX';
+    const langMatch = html.match(/<html[^>]+lang=["']([^"']+)["']/i);
+    if (!langMatch || langMatch[1] !== expectedLang) {
       errors.push('Missing expected HTML language on ' + locale + '/' + route);
     }
     if (!/<link[^>]+rel=["']canonical["']/i.test(html)) {
