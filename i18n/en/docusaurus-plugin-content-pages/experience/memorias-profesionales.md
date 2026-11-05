@@ -13,7 +13,7 @@ Photographs and memories of colleagues, projects, events and moments throughout 
 
 Those were years of extensive fieldwork, exploring different environments and proposing architectures. I also had opportunities to develop my team, share knowledge, and build lasting professional relationships and friendships.
 
-During this period, I also participated in [**Fortinet Xtreme Team**](/experience/fortinet-xtreme-team), technical training events where I met engineers from across Latin America and exchanged experiences with them.
+During this period, I also participated in [**Fortinet Xtreme Team**](/en/experience/fortinet-xtreme-team), technical training events where I met engineers from across Latin America and exchanged experiences with them.
 
 ### Fortinet Xtreme Team
 
@@ -33,7 +33,7 @@ A period of significant growth, new challenges and continuous learning. I develo
 
 It also brought wonderful colleagues, good friends and experiences that have made CONTPAQi an important part of my professional journey.
 
-At CONTPAQi, I have also participated in workshops and [technology events](/experience/encuentros-tecnologicos) hosted by Google and AWS.
+At CONTPAQi, I have also participated in workshops and [technology events](/en/experience/encuentros-tecnologicos) hosted by Google and AWS.
 
 ### Interviews about the ISMS
 
