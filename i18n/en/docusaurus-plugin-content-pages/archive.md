@@ -16,8 +16,8 @@ Each title links to where the original publication can be read. When an article 
 - **20 oct 2026 · [Esto lo hice con IA y la IA no se equivoca](https://www.linkedin.com/feed/update/urn:li:activity:7518333136259276801/)** · Artificial intelligence and leadership · LinkedIn
 - **14 oct 2026 · [04 · Transformando la experiencia en automatización](https://www.linkedin.com/feed/update/urn:li:activity:7516160974890889217/)** · Cybersecurity from operations · LinkedIn
 - **29 sep 2026 · [03 · Monitorear para entender la operación](https://www.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-share-7510701721074077696-FEbH/)** · Cybersecurity from operations · LinkedIn
-- **29 sep 2026 · [DevOps is a culture, not a team](/articles/devops-es-una-cultura-no-un-equipo)** · chava.berjan.mx
-- **28 sep 2026 · [The cloud, almost ten years later](/articles/la-nube-casi-diez-anos-despues)** · chava.berjan.mx
+- **29 sep 2026 · [DevOps is a culture, not a team](/en/articles/devops-es-una-cultura-no-un-equipo)** · chava.berjan.mx
+- **28 sep 2026 · [The cloud, almost ten years later](/en/articles/la-nube-casi-diez-anos-despues)** · chava.berjan.mx
 - **8 sep 2026 · [02 · De la detección al contexto](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_te-ha-pasado-que-tu-antivirus-detecta-una-activity-7503127272061849600-gmWh)** · Cybersecurity from operations · LinkedIn
 - **1 sep 2026 · [01 · Herramientas vs. controles](https://es.linkedin.com/posts/salvador-berj%C3%A1n-40871317_ciberseguridad-cybersecurity-soc-activity-7500568212963475456-790O)** · Cybersecurity from operations · LinkedIn
 
