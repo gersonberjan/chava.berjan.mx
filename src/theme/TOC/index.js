@@ -5,6 +5,7 @@ import {useLocation} from '@docusaurus/router';
 
 const memorySubpages = new Set([
   '/experience/fortinet-xtreme-team',
+  '/experience/entrevistas-sgsi',
   '/experience/encuentros-tecnologicos',
 ]);
 
@@ -26,7 +27,7 @@ function MemoriesTOC() {
         <li>
           <a className="table-of-contents__link" href="#contpaqi">CONTPAQi</a>
           <ul>
-            <li><a className="table-of-contents__link" href="#explicando-que-es-un-sistema-de-gestion-de-seguridad-de-la-informacion">Entrevistas sobre el SGSI</a></li>
+            <li><Link className="table-of-contents__link" to="/experience/entrevistas-sgsi">Entrevistas sobre el SGSI</Link></li>
             <li><Link className="table-of-contents__link" to="/experience/encuentros-tecnologicos">Encuentros tecnológicos</Link></li>
           </ul>
         </li>
