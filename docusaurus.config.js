@@ -1,6 +1,7 @@
 // @ts-check
 
 const config = {
+
   title: 'Chava Berjan',
   tagline: 'Cybersecurity · Infrastructure · Automation · AI',
   favicon: 'img/favicon.ico',
@@ -12,7 +13,11 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   i18n: {
     defaultLocale: 'es',
-    locales: ['es'],
+    locales: ['es', 'en'],
+    localeConfigs: {
+      es: {label: 'Español', htmlLang: 'es-MX'},
+      en: {label: 'English', htmlLang: 'en-US'},
+    },
   },
   presets: [
     [
@@ -47,6 +52,7 @@ const config = {
         {to: '/experience/memorias-profesionales', label: 'Memorias', position: 'left'},
         {to: '/about', label: 'Sobre mí', position: 'left'},
         {href: 'https://github.com/gersonberjan', label: 'GitHub', position: 'right'},
+        {type: 'localeDropdown', position: 'right'},
       ],
     },
     footer: {

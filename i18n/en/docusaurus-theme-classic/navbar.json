@@ -1,0 +1,14 @@
+{
+  "item.label.Publicaciones": {
+    "message": "Articles"
+  },
+  "item.label.Archivo": {
+    "message": "Archive"
+  },
+  "item.label.Memorias": {
+    "message": "Memories"
+  },
+  "item.label.Sobre mí": {
+    "message": "About me"
+  }
+}

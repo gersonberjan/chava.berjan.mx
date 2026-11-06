@@ -2,6 +2,7 @@ import React from 'react';
 import TOCOriginal from '@theme-original/TOC';
 import Link from '@docusaurus/Link';
 import {useLocation} from '@docusaurus/router';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 const memorySubpages = new Set([
   '/experience/fortinet-xtreme-team',
@@ -12,13 +13,16 @@ const memorySubpages = new Set([
 // This index has a fixed hierarchy: employers are in-page anchors and
 // their related memories are separate pages.
 function MemoriesTOC() {
+  const {i18n: {currentLocale}} = useDocusaurusContext();
+  const en = currentLocale === 'en';
+  const memoryPath = en ? '/en/experience/' : '/experience/';
   return (
-    <nav aria-label="Índice de Memorias">
+    <nav aria-label={en ? "Memories index" : "Índice de Memorias"}>
       <ul className="table-of-contents table-of-contents__left-border memories-toc-list">
         <li>
           <a className="table-of-contents__link" href="#cero-uno-software-corporativo">Cero Uno Software Corporativo</a>
           <ul>
-            <li><Link className="table-of-contents__link" to="/experience/fortinet-xtreme-team">Fortinet Xtreme Team</Link></li>
+            <li><Link className="table-of-contents__link" to={`${memoryPath}fortinet-xtreme-team`}>Fortinet Xtreme Team</Link></li>
           </ul>
         </li>
         <li>
@@ -27,8 +31,8 @@ function MemoriesTOC() {
         <li>
           <a className="table-of-contents__link" href="#contpaqi">CONTPAQi</a>
           <ul>
-            <li><Link className="table-of-contents__link" to="/experience/entrevistas-sgsi">Entrevistas sobre el SGSI</Link></li>
-            <li><Link className="table-of-contents__link" to="/experience/encuentros-tecnologicos">Encuentros tecnológicos</Link></li>
+            <li><Link className="table-of-contents__link" to={`${memoryPath}entrevistas-sgsi`}>{en ? 'Interviews about the ISMS' : 'Entrevistas sobre el SGSI'}</Link></li>
+            <li><Link className="table-of-contents__link" to={`${memoryPath}encuentros-tecnologicos`}>{en ? 'Technology events' : 'Encuentros tecnológicos'}</Link></li>
           </ul>
         </li>
       </ul>
@@ -38,7 +42,9 @@ function MemoriesTOC() {
 
 export default function TOC(props) {
   const {pathname} = useLocation();
-  const path = pathname.replace(/\/$/, '');
+  const {i18n: {currentLocale}} = useDocusaurusContext();
+  const en = currentLocale === 'en';
+  const path = pathname.replace(/^\/en(?=\/|$)/, '').replace(/\/$/, '');
 
   if (path === '/experience/memorias-profesionales') {
     return <MemoriesTOC />;
@@ -48,8 +54,8 @@ export default function TOC(props) {
 
   return (
     <div className="memories-toc-navigation">
-      <Link className="memories-toc-return" to="/experience/memorias-profesionales">
-        ← Volver a Memorias
+      <Link className="memories-toc-return" to={en ? "/en/experience/memorias-profesionales" : "/experience/memorias-profesionales"}>
+        {en ? '← Back to Memories' : '← Volver a Memorias'}
       </Link>
       <TOCOriginal {...props} />
     </div>
