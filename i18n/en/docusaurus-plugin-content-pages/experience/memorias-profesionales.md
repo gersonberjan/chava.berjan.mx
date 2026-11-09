@@ -33,10 +33,6 @@ A period of significant growth, new challenges and continuous learning. I develo
 
 It also brought wonderful colleagues, good friends and experiences that have made CONTPAQi an important part of my professional journey.
 
-At CONTPAQi, I have also participated in workshops and [technology events](/en/experience/encuentros-tecnologicos) hosted by Google and AWS.
-
-### Interviews about the ISMS
-
-### Technology events
+At CONTPAQi, I have also participated in workshops and [technology events](/en/experience/encuentros-tecnologicos) hosted by Google and AWS. I have also shared experiences and lessons learned about information security in [interviews about the ISMS](/en/experience/entrevistas-sgsi).
 
 <XtremeGallery photos={[{"src":"/img/memorias-contpaqi-01-comida.jpg","alt":"Lunch with CONTPAQi colleagues"},{"src":"/img/memorias-contpaqi-03-convencion.jpg","alt":"Gathering at a company event"},{"src":"/img/memorias-contpaqi-04-equipo-convencion.jpg","alt":"Group photograph at a convention"},{"src":"/img/memorias-contpaqi-06-amigos.jpg","alt":"Lunch with colleagues"},{"src":"/img/memorias-contpaqi-11-convencion.jpg","alt":"With colleagues at an event"},{"src":"/img/memorias-contpaqi-17-convivencia.jpg","alt":"Gathering with colleagues"},{"src":"/img/memorias-contpaqi-18-amigos.jpg","alt":"Photograph with colleagues during a gathering"},{"src":"/img/memorias-contpaqi-19-posada.jpg","alt":"Team photograph during a celebration"},{"src":"/img/memorias-contpaqi-22-nuevas-oficinas.jpg","alt":"At the new CONTPAQi offices"}] } />
