@@ -7,6 +7,16 @@ import XtremeGallery from '@site/src/components/XtremeGallery';
 
 # Professional memories
 
+<div className="editorial-feature editorial-feature--memories">
+  <div className="editorial-feature__copy">
+    <span className="editorial-feature__kicker">A PHOTOGRAPHIC JOURNEY</span>
+    <div className="editorial-feature__title">People, projects and moments</div>
+    <p>A professional journey is also shaped by the people and experiences along the way.</p>
+  </div>
+  <img src="/img/memorias-contpaqi-22-nuevas-oficinas.jpg" alt="" loading="lazy" />
+</div>
+
+
 Photographs and memories of colleagues, projects, events and moments throughout my career.
 
 ## Cero Uno Software Corporativo
