@@ -9,3 +9,13 @@
 .heroGlobe{opacity:.35}
 @media(max-width:996px){.heroCopy{max-width:65%;flex-basis:65%}.heroPortrait{width:43%;height:83%}.hero h1{font-size:clamp(2.8rem,6vw,4.7rem)}}
 @media(max-width:600px){.heroInner{align-items:flex-start;padding-top:3rem;padding-bottom:14rem;min-height:660px}.heroCopy{max-width:100%;flex-basis:100%}.hero h1{font-size:clamp(2.7rem,10vw,4rem)}.heroPortrait{height:270px;width:75%;right:-7%;bottom:0;opacity:.85;mask-image:linear-gradient(to bottom,transparent 0%,#000 25%);-webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 25%)}.heroPortrait:after{background:linear-gradient(to top,#071b2e44,transparent 70%)}.heroGlobe{opacity:.18}.topicSection{margin-top:-25px}.intro{font-size:1rem}.actions{gap:.6rem}.primaryAction,.secondaryAction{font-size:.85rem;padding:.7rem 1rem}}
+
+/* Interactive thematic navigation and cohesive editorial iconography */
+.topicCard{position:relative;color:var(--ifm-font-color-base)!important;text-decoration:none!important;transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
+.topicCard:hover,.topicCard:focus-visible{transform:translateY(-3px);border-color:#c69249;box-shadow:0 12px 28px #071b2e25}
+.topicCard:focus-visible{outline:2px solid #e9b66c;outline-offset:3px}
+.topicSymbol{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0}
+.topicArrow{position:absolute;right:.7rem;top:.55rem;font-size:.9rem;color:#c69249;opacity:.75}
+.postVisual span{display:flex;align-items:center;justify-content:center}
+.postVisual span svg{width:82px;height:82px;stroke-width:1.2}
+@media(prefers-reduced-motion:reduce){.topicCard{transition:none}}
