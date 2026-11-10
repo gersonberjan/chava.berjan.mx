@@ -66,7 +66,7 @@ export default function Home() {
                 <Link className={styles.secondaryAction} to={prefix + '/about'}>{t.secondary} <span aria-hidden="true">↗</span></Link>
               </div>
             </div>
-            <div className={styles.heroSignature} aria-hidden="true"><span>CHAVA</span><span>BERJAN</span></div>
+            <div className={styles.heroPortrait}><img src="/img/chava-berjan-perfil.png" alt={en ? "Portrait of Chava Berjan" : "Retrato de Chava Berjan"} fetchPriority="high" /></div>
           </div>
         </section>
         <section className={styles.topicSection} aria-label={en ? 'Areas of interest' : 'Áreas de interés'}>
