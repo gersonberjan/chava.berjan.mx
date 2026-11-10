@@ -4,6 +4,15 @@ description: Historical archive of my technical publications and reflections on 
 ---
 
 # Archive
+<div className="editorial-feature editorial-feature--archive">
+  <div className="editorial-feature__copy">
+    <span className="editorial-feature__kicker">ARCHIVE · HISTORY</span>
+    <div className="editorial-feature__title">Ideas that endure</div>
+    <p>Articles, reflections and lessons collected over time. A chronological record connecting early technical notes with today's topics.</p>
+  </div>
+  <div className="editorial-archive-art" aria-hidden="true"><span>2009</span><span>2016</span><span>2026</span></div>
+</div>
+
 
 This is the historical record of my publications, from my earliest technical notes to my latest articles. It brings together content published on chava.berjan.mx and other platforms.
 
