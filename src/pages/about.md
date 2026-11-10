@@ -5,6 +5,15 @@ description: Conoce mi trayectoria en infraestructura, nube, operación, automat
 
 # Sobre mí
 
+<div className="editorial-feature editorial-feature--portrait">
+  <div className="editorial-feature__copy">
+    <span className="editorial-feature__kicker">SOBRE MÍ · TRAYECTORIA</span>
+    <div className="editorial-feature__title">Tecnología, experiencia y aprendizaje</div>
+    <p>Una mirada personal a los retos, las decisiones y las personas que han marcado mi camino profesional.</p>
+  </div>
+  <img src="/img/chava-berjan-perfil.png" alt="Chava Berjan" loading="lazy" />
+</div>
+
 Soy **Chava Berjan**.
 
 Mi trayectoria en tecnología ha recorrido infraestructura, redes, servicios, nube, automatización y ciberseguridad. A lo largo de ese camino he aprendido a observar la tecnología no como disciplinas aisladas, sino como capacidades que deben funcionar juntas en la operación.
