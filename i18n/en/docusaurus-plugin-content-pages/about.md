@@ -5,6 +5,15 @@ description: My experience in infrastructure, cloud, operations, automation and 
 
 # About me
 
+<div className="editorial-feature editorial-feature--portrait">
+  <div className="editorial-feature__copy">
+    <span className="editorial-feature__kicker">ABOUT ME · MY JOURNEY</span>
+    <div className="editorial-feature__title">Technology, experience and learning</div>
+    <p>A personal perspective on the challenges, decisions and people that have shaped my professional journey.</p>
+  </div>
+  <img src="/img/chava-berjan-perfil.png" alt="Chava Berjan" loading="lazy" />
+</div>
+
 I am **Chava Berjan**.
 
 My career in technology has spanned infrastructure, networking, services, cloud, automation and cybersecurity. Along the way, I have learned to see technology not as isolated disciplines but as capabilities that must work together in day-to-day operations.
