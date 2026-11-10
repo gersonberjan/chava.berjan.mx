@@ -7,6 +7,16 @@ import XtremeGallery from '@site/src/components/XtremeGallery';
 
 # Memorias profesionales
 
+<div className="editorial-feature editorial-feature--memories">
+  <div className="editorial-feature__copy">
+    <span className="editorial-feature__kicker">RECORRIDO FOTOGRÁFICO</span>
+    <div className="editorial-feature__title">Personas, proyectos y momentos</div>
+    <p>Una trayectoria también se construye con las personas y experiencias que nos acompañan.</p>
+  </div>
+  <img src="/img/memorias-contpaqi-22-nuevas-oficinas.jpg" alt="" loading="lazy" />
+</div>
+
+
 Fotografías y recuerdos de compañeros, proyectos, encuentros y momentos que he compartido a lo largo de mi trayectoria.
 
 ## Cero Uno Software Corporativo
