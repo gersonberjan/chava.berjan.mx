@@ -56,3 +56,40 @@
 .memories-toc-list > li > ul .table-of-contents__link {
   font-size: 0.9em;
 }
+
+/* Editorial identity shared by articles, knowledge pages and professional memories. */
+:root{
+  --ifm-color-primary:#315779;
+  --ifm-color-primary-dark:#2b4e6d;
+  --ifm-color-primary-darker:#294968;
+  --ifm-color-primary-darkest:#203c55;
+  --ifm-color-primary-light:#3b688f;
+  --ifm-color-primary-lighter:#426f96;
+  --ifm-color-primary-lightest:#5785a9;
+  --ifm-heading-font-family:Georgia,'Times New Roman',serif;
+  --ifm-background-color:#faf9f6;
+  --ifm-background-surface-color:#fff;
+  --ifm-font-color-base:#253142;
+}
+[data-theme='dark']{
+  --ifm-color-primary:#e9b66c;
+  --ifm-color-primary-dark:#e2a852;
+  --ifm-color-primary-darker:#dfa347;
+  --ifm-color-primary-darkest:#cb8b2d;
+  --ifm-color-primary-light:#efc486;
+  --ifm-color-primary-lighter:#f1c992;
+  --ifm-color-primary-lightest:#f6dbb5;
+  --ifm-background-color:#1b1d21;
+  --ifm-background-surface-color:#24272c;
+  --ifm-font-color-base:#e8e8e8;
+}
+.navbar{box-shadow:0 1px 0 var(--ifm-color-emphasis-200)}
+.navbar__title{font-family:Georgia,'Times New Roman',serif;letter-spacing:-.03em}
+main .markdown h1,main .markdown h2,article h1,article h2{letter-spacing:-.025em}
+main .markdown h1,article h1{font-size:clamp(2.15rem,4vw,3.25rem);line-height:1.12}
+main .markdown h2,article h2{margin-top:2.3rem}
+main .markdown p,article .markdown p{line-height:1.85}
+main .markdown img,article .markdown img{border-radius:10px}
+main .markdown blockquote,article .markdown blockquote{border-left:3px solid #c49a63;background:var(--ifm-background-surface-color);padding:1rem 1.3rem;border-radius:0 8px 8px 0}
+.footer{border-top:1px solid #ffffff1a}
+@media(max-width:996px){main .markdown h1,article h1{font-size:clamp(2rem,7vw,2.7rem)}}
