@@ -4,6 +4,15 @@ description: Archivo histórico de mis publicaciones técnicas y reflexiones sob
 ---
 
 # Archivo
+<div className="editorial-feature editorial-feature--archive">
+  <div className="editorial-feature__copy">
+    <span className="editorial-feature__kicker">HEMEROTECA · HISTORIA</span>
+    <div className="editorial-feature__title">Ideas que permanecen</div>
+    <p>Publicaciones, reflexiones y aprendizajes reunidos a lo largo del tiempo. Un registro cronológico que conecta las primeras notas técnicas con los temas de hoy.</p>
+  </div>
+  <div className="editorial-archive-art" aria-hidden="true"><span>2009</span><span>2016</span><span>2026</span></div>
+</div>
+
 
 Este es el registro histórico de mis publicaciones, desde las primeras notas técnicas hasta los artículos actuales. Reúne contenido publicado en chava.berjan.mx y en otras plataformas.
 
