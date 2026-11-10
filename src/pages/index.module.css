@@ -19,3 +19,14 @@
 .postVisual span{display:flex;align-items:center;justify-content:center}
 .postVisual span svg{width:82px;height:82px;stroke-width:1.2}
 @media(prefers-reduced-motion:reduce){.topicCard{transition:none}}
+
+/* Editorial illustrations: diagrammatic compositions instead of oversized pictograms. */
+.postVisual{isolation:isolate;height:190px}
+.postVisual:before{transform:perspective(360px) rotateX(42deg) scale(1.45);opacity:.7}
+.postVisual:after{content:'';position:absolute;inset:18% 23%;border:1px solid #8fd7ff45;border-radius:16px;box-shadow:0 0 0 18px #80caff0a,0 0 0 40px #80caff08;transform:rotate(-8deg)}
+.postVisual span{z-index:1;width:110px;height:110px;border:1px solid #b8e4ff55;border-radius:24px;background:linear-gradient(145deg,#2673a477,#06233b99);box-shadow:0 15px 45px #0005,0 0 45px #58b8ec40;transform:rotate(-8deg)}
+.postVisual span svg{width:65px;height:65px;transform:rotate(8deg)}
+.cloud{background:radial-gradient(ellipse at 60% 40%,#267c9d,#0a3151 60%,#071a32)}
+.operations{background:radial-gradient(ellipse at 50% 40%,#255b91,#0a294a 62%,#07182d)}
+.contentSection{padding-top:4.5rem}
+@media(max-width:600px){.contentSection{padding-top:3rem}.postVisual{height:175px}}
