@@ -105,3 +105,12 @@ main .markdown blockquote,article .markdown blockquote{border-left:3px solid #c4
 .markdown>h2{border-top:1px solid var(--ifm-color-emphasis-200);padding-top:1.5rem}
 .markdown>h2:before{content:'';display:block;width:42px;height:3px;background:#c49a63;margin-bottom:1rem}
 @media(max-width:700px){.editorial-feature{grid-template-columns:1fr;min-height:0}.editorial-feature__copy{padding:1.6rem}.editorial-feature img{height:230px;max-height:230px;mask-image:linear-gradient(to bottom,transparent,#000 22%);-webkit-mask-image:linear-gradient(to bottom,transparent,#000 22%)}}
+
+/* Compact interior page banners: a supporting visual, not a second homepage hero. */
+.editorial-feature{min-height:190px;max-height:230px;margin:1.25rem 0 1.9rem;grid-template-columns:1.4fr 1fr}
+.editorial-feature__copy{padding:1.4rem 2rem}
+.editorial-feature__kicker{font-size:.67rem;margin-bottom:.6rem}
+.editorial-feature__title{font-size:clamp(1.45rem,2.3vw,2.05rem);margin-bottom:.5rem}
+.editorial-feature__copy p{font-size:.9rem;line-height:1.55}
+.editorial-feature img{max-height:230px}
+@media(max-width:700px){.editorial-feature{max-height:none;min-height:0;grid-template-columns:1fr}.editorial-feature__copy{padding:1.2rem 1.4rem}.editorial-feature img{height:150px;max-height:150px}}
