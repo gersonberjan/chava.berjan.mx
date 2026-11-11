@@ -9,52 +9,31 @@ description: Una reflexión sobre cómo ha cambiado mi forma de entender la nube
 En enero de 2017 publiqué un artículo llamado [*La nube: un cambio de paradigma*](https://xecureblog.wordpress.com/2017/01/31/la-nube-un-cambio-de-paradigma/).
 
 Al día de hoy, la oferta de servicios ha crecido y también ha cambiado mi forma de entender la nube.
-
-En aquel momento veía un movimiento que parecía bastante claro: muchas empresas comenzarían a llevar parte de su infraestructura de ambientes on-premise hacia la nube.
-
-Y ocurrió.
-
-Pero también ocurrió lo contrario.
+En aquel momento veía un movimiento que parecía bastante claro: muchas empresas comenzarían a llevar parte de su infraestructura de ambientes on-premise hacia la nube. Y si ocurrió. Pero también ocurrió lo contrario.
 
 Durante estos años hemos visto organizaciones adoptar servicios en la nube, mantener infraestructura propia, construir ambientes híbridos e incluso regresar determinadas cargas de la nube a on-premise.
 
 También tuvimos que aprender nuevas formas de administrar y optimizar el costo de esos servicios, adoptando prácticas como [FinOps](https://www.finops.org/introduction/what-is-finops/), y a comparar ese modelo con conceptos que ya conocíamos, como la inversión y depreciación de los activos propios.
 
 Entonces, ¿realmente ocurrió aquel cambio de paradigma?
-
 Creo que sí. Sólo que **el movimiento era más grande de lo que yo creía**.
 
-## Una frase que tardé años en vivir
+## Una frase que sonaba desde mis tiempos de integrador
 
 Mucho antes de aquel artículo había una frase que escuchaba constantemente:
 
 > “Empresa que no esté en Internet va a desaparecer.”
 
-Yo la entendía y la había hecho mía.
-
-**Pero una cosa era entender lo que significaba y otra muy distinta vivirlo.**
-
+Por supuesto entendía de lo que estábamos hablando **Pero una cosa era entender lo que significaba y otra muy distinta vivirlo.**
 Durante mucho tiempo “estar en Internet” podía interpretarse como tener una página web, correo electrónico, algún sistema publicado o comenzar a ofrecer servicios digitales.
 
-En 2020 entendí realmente lo que podía significar.
+En 2020 entendí realmente lo que podía significar. Con la pandemia llegaron las restricciones. En Jalisco y posteriormente en buena parte de México —y del mundo—, salir y permanecer en espacios de trabajo representaba un riesgo de contagio. Muchas actividades presenciales se detuvieron o quedaron restringidas, salvo aquellas consideradas esenciales.
 
-Con la pandemia llegaron las restricciones. En Jalisco y posteriormente en buena parte de México —y del mundo—, salir y permanecer en espacios de trabajo representaba un riesgo de contagio. Muchas actividades presenciales se detuvieron o quedaron restringidas, salvo aquellas consideradas esenciales.
+De un momento a otro, muchas empresas tuvieron que responder una pregunta para la que quizá no estaban preparadas: **¿Podemos seguir operando si las personas no pueden estar físicamente aquí?**
 
-De un momento a otro, muchas empresas tuvieron que responder una pregunta para la que quizá no estaban preparadas:
+Internet dejó de ser solamente presencia, **se convirtió en operación.**
 
-**¿Podemos seguir operando si las personas no pueden estar físicamente aquí?**
-
-Internet dejó de ser solamente presencia.
-
-**Se convirtió en operación.**
-
-Trabajar, atender clientes, vender, colaborar, acceder a información y mantener procesos funcionando de manera remota dejaron de ser capacidades adicionales. Para muchas organizaciones se volvieron parte de su continuidad.
-
-Ahí entendí aquella frase de otra manera.
-
-El cambio no consistía solamente en que las empresas estuvieran en Internet.
-
-Consistía en que fueran capaces de **operar digitalmente**.
+Trabajar, atender clientes, vender, colaborar, acceder a información y mantener procesos funcionando de manera remota dejaron de ser capacidades adicionales. Para muchas organizaciones se volvieron parte de su continuidad. Fue aquí que entendí aquella frase de otra manera: El cambio no consistía solamente en que las empresas estuvieran en Internet, consistía en que fueran capaces de **operar digitalmente**.
 
 ## Entonces, ¿qué es la nube?
 
@@ -70,27 +49,14 @@ Y con esta segunda perspectiva aparece también un concepto importante: **la res
 
 Algo que me llamaba especialmente la atención desde aquellos años era lo que la nube podía representar para una empresa que comenzaba.
 
-Imaginemos una organización nueva.
+Imaginemos una organización nueva. Antes de generar negocio puede necesitar servidores, almacenamiento, comunicaciones, respaldos, seguridad, redundancia y personal capaz de operar todo eso. Construir esa capacidad requiere capital.
+La nube ofrece otra posibilidad: consumir muchas de esas capacidades conforme son necesarias. Eso permite que una empresa no tenga que descapitalizarse construyendo desde el primer día toda su infraestructura y pueda invertir una mayor parte de sus recursos en aquello que realmente genera su negocio.
 
-Antes de generar negocio puede necesitar servidores, almacenamiento, comunicaciones, respaldos, seguridad, redundancia y personal capaz de operar todo eso.
-
-Construir esa capacidad requiere capital.
-
-La nube ofrece otra posibilidad: consumir muchas de esas capacidades conforme son necesarias.
-
-Eso permite que una empresa no tenga que descapitalizarse construyendo desde el primer día toda su infraestructura y pueda invertir una mayor parte de sus recursos en aquello que realmente genera su negocio.
-
-Eso no significa que la nube sea automáticamente más barata.
-
-Tampoco que sea la respuesta correcta para cualquier carga.
-
-Significa que tenemos otra forma de consumir tecnología y otra herramienta para diseñar la operación.
+Eso no significa que la nube sea automáticamente más barata, tampoco que sea la respuesta correcta para cualquier carga. Significa que tenemos otra forma de consumir tecnología y otra herramienta para diseñar la operación.
 
 ## Entonces, ¿cloud u on-premise?
 
-Probablemente ésta sea una de las cosas que más han cambiado en mi manera de verlo.
-
-Si una empresa ya tiene datacenters, infraestructura amortizada, personal, conectividad, procedimientos y cargas estables, mi respuesta no sería:
+Probablemente ésta sea una de las cosas que más han cambiado en mi manera de verlo. Si una empresa ya tiene datacenters, infraestructura amortizada, personal, conectividad, procedimientos y cargas estables, mi respuesta NO sería:
 
 > “Hay que moverlo todo a la nube.”
 
@@ -98,43 +64,25 @@ Sería:
 
 **Analicemos tu operación.**
 
-Veamos qué tienes, qué necesitas, qué problemas quieres resolver y si existe algo que tenga sentido operar desde la nube.
+Veamos qué tienes, qué necesitas, qué problemas quieres resolver y si existe algo que tenga sentido operar desde la nube. Puede haber cargas para las que cloud sea una excelente decisión, otras pueden tener sentido on-premise y otras terminarán formando una arquitectura híbrida.
 
-Puede haber cargas para las que cloud sea una excelente decisión.
-
-Otras pueden tener sentido on-premise.
-
-Y otras terminarán formando una arquitectura híbrida.
-
-El objetivo no debería ser poder decir que estamos “en la nube”.
-
-El objetivo es que la tecnología soporte correctamente al negocio.
+El objetivo no debería ser poder decir que estamos “en la nube”, el objetivo es que la tecnología soporte correctamente al negocio.
 
 ## Casi diez años después
 
 En 2017 veía la nube como un cambio de paradigma.
-
 **Casi diez años después sigo pensando que lo fue, pero también cambió mi comprensión del cambio.**
 
-En estos años la tecnología cambió, pero yo también aprendí a decidir mejor dónde y cómo utilizarla.
-
-Y quizá ese sea para mí el aprendizaje más importante.
-
+En estos años la tecnología cambió, pero yo también aprendí a decidir mejor dónde y cómo utilizarla, y quizá ese sea para mí el aprendizaje más importante. 
 Hoy estamos viviendo algo parecido con la inteligencia artificial. Parece que todo necesita IA porque es la tecnología que está transformando la industria.
 
-Antes fue cloud.
-
-Mañana será otra tecnología.
+Antes fue cloud, mañana será otra tecnología.
 
 Pero la pregunta debería seguir siendo la misma:
-
 **¿Qué necesita el negocio?**
 
-No todo tiene que ser nube para estar bien.
-
-No todo requiere ser on-premise.
-
-Tampoco todo es IA.
+No todo tiene que ser nube para estar bien, no todo requiere ser on-premise.
+**Tampoco todo es IA.**
 
 **No habilitemos capacidades por moda. Hagámoslo de acuerdo con las necesidades del negocio.**
 
